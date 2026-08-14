@@ -853,7 +853,7 @@
           "repo_info": {
             "archived": false,
             "language": "PowerShell",
-            "last_commit": "2026-08-09T19:29:42Z",
+            "last_commit": "2026-08-13T11:06:04Z",
             "owner": "stride3d",
             "repo": "stride-docs",
             "stars": 37
@@ -980,7 +980,7 @@
             "last_commit": "2026-08-11T08:49:03Z",
             "owner": "stride3d",
             "repo": "stride",
-            "stars": 7770
+            "stars": 7778
           }
         },
         {
@@ -1382,7 +1382,7 @@
             "last_commit": "2026-08-13T05:48:20Z",
             "owner": "MyraUI",
             "repo": "Myra",
-            "stars": 875
+            "stars": 874
           }
         },
         {
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T05:51:09.383Z",
+    "last_updated": "2026-08-14T05:48:50.336Z",
     "original_repository": "Doprez/Awesome-Stride",
     "original_repository_sha": "1dd3b765e944868f68a597bc882aac3ab11b5458",
     "enhanced_repository": "enhansome/enhansome-Awesome-Stride",
