@@ -352,7 +352,7 @@
             "last_commit": "2021-01-13T13:47:18Z",
             "owner": "tebjan",
             "repo": "StrideTransformationInstancing",
-            "stars": 9
+            "stars": 8
           }
         },
         {
@@ -853,7 +853,7 @@
           "repo_info": {
             "archived": false,
             "language": "PowerShell",
-            "last_commit": "2026-08-13T11:06:04Z",
+            "last_commit": "2026-08-14T21:18:17Z",
             "owner": "stride3d",
             "repo": "stride-docs",
             "stars": 37
@@ -977,10 +977,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-11T08:49:03Z",
+            "last_commit": "2026-08-14T21:34:00Z",
             "owner": "stride3d",
             "repo": "stride",
-            "stars": 7778
+            "stars": 7780
           }
         },
         {
@@ -991,7 +991,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-12T14:04:36Z",
+            "last_commit": "2026-08-14T10:40:10Z",
             "owner": "vvvv",
             "repo": "VL.StandardLibs",
             "stars": 63
@@ -1379,7 +1379,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T05:48:20Z",
+            "last_commit": "2026-08-14T15:06:13Z",
             "owner": "MyraUI",
             "repo": "Myra",
             "stars": 874
@@ -1509,7 +1509,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "C#",
-                "last_commit": "2026-08-12T14:04:36Z",
+                "last_commit": "2026-08-14T10:40:10Z",
                 "owner": "vvvv",
                 "repo": "VL.StandardLibs",
                 "stars": 63
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T05:48:50.336Z",
+    "last_updated": "2026-08-15T04:50:04.460Z",
     "original_repository": "Doprez/Awesome-Stride",
     "original_repository_sha": "1dd3b765e944868f68a597bc882aac3ab11b5458",
     "enhanced_repository": "enhansome/enhansome-Awesome-Stride",
