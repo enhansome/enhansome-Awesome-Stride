@@ -991,7 +991,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T10:40:10Z",
+            "last_commit": "2026-08-17T15:09:05Z",
             "owner": "vvvv",
             "repo": "VL.StandardLibs",
             "stars": 63
@@ -1509,7 +1509,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "C#",
-                "last_commit": "2026-08-14T10:40:10Z",
+                "last_commit": "2026-08-17T15:09:05Z",
                 "owner": "vvvv",
                 "repo": "VL.StandardLibs",
                 "stars": 63
@@ -1628,7 +1628,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-17T01:33:16Z",
+            "last_commit": "2026-08-17T22:19:22Z",
             "owner": "VaclavElias",
             "repo": "stride-community-toolkit",
             "stars": 4
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T05:00:40.217Z",
+    "last_updated": "2026-08-18T04:54:52.698Z",
     "original_repository": "Doprez/Awesome-Stride",
     "original_repository_sha": "1dd3b765e944868f68a597bc882aac3ab11b5458",
     "enhanced_repository": "enhansome/enhansome-Awesome-Stride",
