@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T07:21:26Z",
             "owner": "stride3d",
             "repo": "stride-community-toolkit",
-            "stars": 127
+            "stars": 128
           }
         },
         {
@@ -1045,7 +1045,7 @@
             "archived": false,
             "id": 136570231,
             "language": "C#",
-            "last_commit": "2026-08-19T06:36:24Z",
+            "last_commit": "2026-08-19T15:28:51Z",
             "owner": "stride3d",
             "repo": "stride",
             "stars": 7787
@@ -1060,7 +1060,7 @@
             "archived": false,
             "id": 598236969,
             "language": "C#",
-            "last_commit": "2026-08-19T10:57:50Z",
+            "last_commit": "2026-08-19T23:20:00Z",
             "owner": "vvvv",
             "repo": "VL.StandardLibs",
             "stars": 63
@@ -1612,7 +1612,7 @@
                 "archived": false,
                 "id": 598236969,
                 "language": "C#",
-                "last_commit": "2026-08-19T10:57:50Z",
+                "last_commit": "2026-08-19T23:20:00Z",
                 "owner": "vvvv",
                 "repo": "VL.StandardLibs",
                 "stars": 63
@@ -1737,7 +1737,7 @@
             "archived": false,
             "id": 695866427,
             "language": "C#",
-            "last_commit": "2026-08-19T08:02:09Z",
+            "last_commit": "2026-08-19T23:58:19Z",
             "owner": "VaclavElias",
             "repo": "stride-community-toolkit",
             "stars": 4
@@ -1859,7 +1859,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:08:45.028Z",
+    "last_updated": "2026-08-20T04:56:24.150Z",
     "original_repository": "Doprez/Awesome-Stride",
     "original_repository_id": 616699778,
     "original_repository_sha": "1dd3b765e944868f68a597bc882aac3ab11b5458",

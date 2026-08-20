@@ -3,7 +3,7 @@
 
 # Awesome Stride with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,654 | 🐛 102 | 📅 2026-08-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,892 | 🐛 104 | 📅 2026-08-18
 
 Stride is a completely open-source, MIT-licensed game engine built from the ground up in C#.
 
@@ -37,7 +37,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 
 ## Example Projects
 
-* [Stride Game Engine Extension for code only approach](https://github.com/VaclavElias/stride-code-only) ⭐ 127 | 🐛 58 | 🌐 C# | 📅 2026-08-19
+* [Stride Game Engine Extension for code only approach](https://github.com/VaclavElias/stride-code-only) ⭐ 128 | 🐛 58 | 🌐 C# | 📅 2026-08-19
 * [Bepu physics integration](https://github.com/Nicogo1705/BepuPhysicIntegrationTest/tree/master) ⭐ 55 | 🐛 8 | 🌐 C# | 📅 2024-10-12
 * [Proof of Concepts](https://github.com/Basewq/XenkoProofOfConcepts) ⭐ 29 | 🐛 2 | 🌐 C# | 📅 2026-06-20
   * [Cutscene Timeline](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/CutsceneTimelineExample) ⭐ 29 | 🐛 2 | 🌐 C# | 📅 2026-06-20
@@ -306,4 +306,4 @@ These are projects that definitely will not work with Stride 4.x without massive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
