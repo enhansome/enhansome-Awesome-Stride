@@ -4,6 +4,212 @@
       "description": null,
       "items": [
         {
+          "node_type": "group",
+          "title": "Repositories",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Fennecs demo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 762472263,
+                "language": "C#",
+                "last_commit": "2026-08-06T11:49:36Z",
+                "owner": "outfox",
+                "repo": "fennecs",
+                "stars": 462
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Svelto ECS mini examples",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 170320609,
+                "language": "C#",
+                "last_commit": "2025-05-07T19:18:50Z",
+                "owner": "sebas77",
+                "repo": "Svelto.MiniExamples",
+                "stars": 147
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Arch ECS integrated into Stride",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 714501836,
+                "language": "C#",
+                "last_commit": "2024-10-11T14:20:32Z",
+                "owner": "Doprez",
+                "repo": "stride-arch-ecs",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Using Entity Processors for Scene Editor Plugins",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 694937771,
+                "language": "C#",
+                "last_commit": "2023-10-27T16:12:55Z",
+                "owner": "Doprez",
+                "repo": "lod-example",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pathfinding With Entity Processors",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 693241832,
+                "language": "C#",
+                "last_commit": "2024-01-01T20:58:23Z",
+                "owner": "Doprez",
+                "repo": "stride-pathfinding-demo",
+                "stars": 2
+              }
+            }
+          ]
+        }
+      ],
+      "title": "ECS Examples"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Repositories",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Xenko TPS example",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 183407868,
+                "language": "Mathematica",
+                "last_commit": "2022-02-22T15:54:50Z",
+                "owner": "stride3d",
+                "repo": "Starbreach",
+                "stars": 68
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rise of the Undeaf",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 294134575,
+                "language": "C#",
+                "last_commit": "2021-05-03T17:27:59Z",
+                "owner": "manio143",
+                "repo": "RiseOfTheUndeaf",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Astroids",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 281218493,
+                "language": "C#",
+                "last_commit": "2020-07-30T22:54:07Z",
+                "owner": "LanceJZ",
+                "repo": "Stride-Asteroids",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Basic Platformer WIP",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 601476049,
+                "language": "C#",
+                "last_commit": "2023-06-13T16:03:13Z",
+                "owner": "Doprez",
+                "repo": "stride-platformer",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Zerobot",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 286596150,
+                "language": "C#",
+                "last_commit": "2020-11-02T10:17:21Z",
+                "owner": "joaovsq",
+                "repo": "Zerobot",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Terracota",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 694345066,
+                "language": "C#",
+                "last_commit": "2025-02-27T00:37:39Z",
+                "owner": "YerkoAndrei",
+                "repo": "Terracota",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Roller Ghoster",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 763422205,
+                "language": "C#",
+                "last_commit": "2024-02-26T10:38:31Z",
+                "owner": "Aggror",
+                "repo": "RollerGhosterOpen",
+                "stars": 1
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Game Examples"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "node_type": "item",
           "title": "Stride Game Engine Extension for code only approach",
           "description": null,
@@ -1048,7 +1254,7 @@
             "last_commit": "2026-08-23T20:21:44Z",
             "owner": "stride3d",
             "repo": "stride",
-            "stars": 7795
+            "stars": 7796
           }
         },
         {
@@ -1859,7 +2065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:04:43.189Z",
+    "last_updated": "2026-08-24T14:34:48.750Z",
     "original_repository": "Doprez/Awesome-Stride",
     "original_repository_id": 616699778,
     "original_repository_sha": "1dd3b765e944868f68a597bc882aac3ab11b5458",
