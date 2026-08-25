@@ -1123,7 +1123,7 @@
             "last_commit": "2026-08-21T22:35:19Z",
             "owner": "stride3d",
             "repo": "stride-docs",
-            "stars": 38
+            "stars": 39
           }
         },
         {
@@ -1254,7 +1254,7 @@
             "last_commit": "2026-08-23T20:21:44Z",
             "owner": "stride3d",
             "repo": "stride",
-            "stars": 7796
+            "stars": 7801
           }
         },
         {
@@ -1683,7 +1683,7 @@
             "last_commit": "2026-08-21T15:42:59Z",
             "owner": "MyraUI",
             "repo": "Myra",
-            "stars": 873
+            "stars": 874
           }
         },
         {
@@ -2065,7 +2065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:34:48.750Z",
+    "last_updated": "2026-08-25T04:56:48.619Z",
     "original_repository": "Doprez/Awesome-Stride",
     "original_repository_id": 616699778,
     "original_repository_sha": "1dd3b765e944868f68a597bc882aac3ab11b5458",
