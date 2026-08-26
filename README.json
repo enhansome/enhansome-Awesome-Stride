@@ -1251,7 +1251,7 @@
             "archived": false,
             "id": 136570231,
             "language": "C#",
-            "last_commit": "2026-08-23T20:21:44Z",
+            "last_commit": "2026-08-25T22:37:46Z",
             "owner": "stride3d",
             "repo": "stride",
             "stars": 7801
@@ -1587,7 +1587,7 @@
             "last_commit": "2026-07-03T22:46:33Z",
             "owner": "Delta3-Studio",
             "repo": "Backdash",
-            "stars": 172
+            "stars": 173
           }
         },
         {
@@ -1683,7 +1683,7 @@
             "last_commit": "2026-08-21T15:42:59Z",
             "owner": "MyraUI",
             "repo": "Myra",
-            "stars": 874
+            "stars": 873
           }
         },
         {
@@ -2065,7 +2065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:28:40.901Z",
+    "last_updated": "2026-08-26T04:58:08.275Z",
     "original_repository": "Doprez/Awesome-Stride",
     "original_repository_id": 616699778,
     "original_repository_sha": "1dd3b765e944868f68a597bc882aac3ab11b5458",
