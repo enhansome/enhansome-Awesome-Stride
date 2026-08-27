@@ -1120,7 +1120,7 @@
             "archived": false,
             "id": 136592204,
             "language": "PowerShell",
-            "last_commit": "2026-08-21T22:35:19Z",
+            "last_commit": "2026-08-26T16:14:39Z",
             "owner": "stride3d",
             "repo": "stride-docs",
             "stars": 39
@@ -1254,7 +1254,7 @@
             "last_commit": "2026-08-25T22:37:46Z",
             "owner": "stride3d",
             "repo": "stride",
-            "stars": 7801
+            "stars": 7806
           }
         },
         {
@@ -1266,7 +1266,7 @@
             "archived": false,
             "id": 598236969,
             "language": "C#",
-            "last_commit": "2026-08-19T23:20:00Z",
+            "last_commit": "2026-08-26T16:54:51Z",
             "owner": "vvvv",
             "repo": "VL.StandardLibs",
             "stars": 63
@@ -1311,7 +1311,7 @@
             "archived": false,
             "id": 686483888,
             "language": "C#",
-            "last_commit": "2026-08-21T15:08:02Z",
+            "last_commit": "2026-08-26T18:37:51Z",
             "owner": "Nicogo1705",
             "repo": "StrideMarchingCubeSystem",
             "stars": 14
@@ -1326,7 +1326,7 @@
             "archived": false,
             "id": 686483888,
             "language": "C#",
-            "last_commit": "2026-08-21T15:08:02Z",
+            "last_commit": "2026-08-26T18:37:51Z",
             "owner": "Nicogo1705",
             "repo": "StrideMarchingCubeSystem",
             "stars": 14
@@ -1683,7 +1683,7 @@
             "last_commit": "2026-08-21T15:42:59Z",
             "owner": "MyraUI",
             "repo": "Myra",
-            "stars": 873
+            "stars": 874
           }
         },
         {
@@ -1818,7 +1818,7 @@
                 "archived": false,
                 "id": 598236969,
                 "language": "C#",
-                "last_commit": "2026-08-19T23:20:00Z",
+                "last_commit": "2026-08-26T16:54:51Z",
                 "owner": "vvvv",
                 "repo": "VL.StandardLibs",
                 "stars": 63
@@ -1943,7 +1943,7 @@
             "archived": false,
             "id": 695866427,
             "language": "C#",
-            "last_commit": "2026-08-23T23:56:55Z",
+            "last_commit": "2026-08-27T00:07:29Z",
             "owner": "VaclavElias",
             "repo": "stride-community-toolkit",
             "stars": 4
@@ -2065,9 +2065,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:58:08.275Z",
-    "original_repository": "Doprez/Awesome-Stride",
-    "original_repository_id": 616699778,
+    "last_updated": "2026-08-27T11:26:12.832Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 616699778,
+      "language": null,
+      "last_commit": "2024-10-02T21:56:03Z",
+      "owner": "Doprez",
+      "repo": "Awesome-Stride",
+      "stars": 168
+    },
     "original_repository_sha": "1dd3b765e944868f68a597bc882aac3ab11b5458",
     "enhanced_repository": "enhansome/enhansome-Awesome-Stride",
     "enhanced_repository_description": null,
