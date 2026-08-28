@@ -21,7 +21,8 @@
                 "owner": "outfox",
                 "repo": "fennecs",
                 "stars": 462
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             },
             {
               "node_type": "item",
@@ -36,7 +37,8 @@
                 "owner": "sebas77",
                 "repo": "Svelto.MiniExamples",
                 "stars": 147
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             },
             {
               "node_type": "item",
@@ -51,7 +53,8 @@
                 "owner": "Doprez",
                 "repo": "stride-arch-ecs",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             },
             {
               "node_type": "item",
@@ -66,7 +69,8 @@
                 "owner": "Doprez",
                 "repo": "lod-example",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             },
             {
               "node_type": "item",
@@ -81,7 +85,8 @@
                 "owner": "Doprez",
                 "repo": "stride-pathfinding-demo",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             }
           ]
         }
@@ -109,7 +114,8 @@
                 "owner": "stride3d",
                 "repo": "Starbreach",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             },
             {
               "node_type": "item",
@@ -124,7 +130,8 @@
                 "owner": "manio143",
                 "repo": "RiseOfTheUndeaf",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             },
             {
               "node_type": "item",
@@ -139,7 +146,8 @@
                 "owner": "LanceJZ",
                 "repo": "Stride-Asteroids",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             },
             {
               "node_type": "item",
@@ -154,7 +162,8 @@
                 "owner": "Doprez",
                 "repo": "stride-platformer",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             },
             {
               "node_type": "item",
@@ -169,7 +178,8 @@
                 "owner": "joaovsq",
                 "repo": "Zerobot",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             },
             {
               "node_type": "item",
@@ -184,7 +194,8 @@
                 "owner": "YerkoAndrei",
                 "repo": "Terracota",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             },
             {
               "node_type": "item",
@@ -199,7 +210,8 @@
                 "owner": "Aggror",
                 "repo": "RollerGhosterOpen",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             }
           ]
         }
@@ -222,7 +234,8 @@
             "owner": "stride3d",
             "repo": "stride-community-toolkit",
             "stars": 128
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -237,7 +250,8 @@
             "owner": "Nicogo1705",
             "repo": "Stride.BepuPhysics",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -257,7 +271,8 @@
                 "owner": "Basewq",
                 "repo": "XenkoProofOfConcepts",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             },
             {
               "node_type": "item",
@@ -272,7 +287,8 @@
                 "owner": "Basewq",
                 "repo": "XenkoProofOfConcepts",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             },
             {
               "node_type": "item",
@@ -287,7 +303,8 @@
                 "owner": "Basewq",
                 "repo": "XenkoProofOfConcepts",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             },
             {
               "node_type": "item",
@@ -302,7 +319,8 @@
                 "owner": "Basewq",
                 "repo": "XenkoProofOfConcepts",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             },
             {
               "node_type": "item",
@@ -317,7 +335,8 @@
                 "owner": "Basewq",
                 "repo": "XenkoProofOfConcepts",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             },
             {
               "node_type": "item",
@@ -332,7 +351,8 @@
                 "owner": "Basewq",
                 "repo": "XenkoProofOfConcepts",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             },
             {
               "node_type": "item",
@@ -347,7 +367,8 @@
                 "owner": "Basewq",
                 "repo": "XenkoProofOfConcepts",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             },
             {
               "node_type": "item",
@@ -362,7 +383,8 @@
                 "owner": "Basewq",
                 "repo": "XenkoProofOfConcepts",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             },
             {
               "node_type": "item",
@@ -377,7 +399,8 @@
                 "owner": "Basewq",
                 "repo": "XenkoProofOfConcepts",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             },
             {
               "node_type": "item",
@@ -392,7 +415,8 @@
                 "owner": "Basewq",
                 "repo": "XenkoProofOfConcepts",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             }
           ],
           "repo_info": {
@@ -403,7 +427,8 @@
             "owner": "Basewq",
             "repo": "XenkoProofOfConcepts",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -423,7 +448,8 @@
                 "owner": "profan",
                 "repo": "XenkoByteSized",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             },
             {
               "node_type": "item",
@@ -438,7 +464,8 @@
                 "owner": "profan",
                 "repo": "XenkoByteSized",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             },
             {
               "node_type": "item",
@@ -453,7 +480,8 @@
                 "owner": "profan",
                 "repo": "XenkoByteSized",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             },
             {
               "node_type": "item",
@@ -468,7 +496,8 @@
                 "owner": "profan",
                 "repo": "XenkoByteSized",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             },
             {
               "node_type": "item",
@@ -483,7 +512,8 @@
                 "owner": "profan",
                 "repo": "XenkoByteSized",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             }
           ],
           "repo_info": {
@@ -494,7 +524,8 @@
             "owner": "profan",
             "repo": "XenkoByteSized",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -509,7 +540,8 @@
             "owner": "manio143",
             "repo": "StrideCustomAsset",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -524,7 +556,8 @@
             "owner": "VaclavElias",
             "repo": "Stride3DTutorials",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -539,7 +572,8 @@
             "owner": "TomGroner",
             "repo": "XenkoFlowingWater",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -554,7 +588,8 @@
             "owner": "johang88",
             "repo": "StrideSimpleWater",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -569,7 +604,8 @@
             "owner": "herocrab",
             "repo": "StrideFogOfWarPlus",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -584,7 +620,8 @@
             "owner": "tebjan",
             "repo": "StrideTransformationInstancing",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -599,7 +636,8 @@
             "owner": "julyfortoday",
             "repo": "StrideParallelScenes",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -614,7 +652,8 @@
             "owner": "Jarb2104",
             "repo": "Stride-VoxelScape",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -629,7 +668,8 @@
             "owner": "tebjan",
             "repo": "StrideProceduralModel",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -644,7 +684,8 @@
             "owner": "jeske",
             "repo": "LoadObjTest",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -659,7 +700,8 @@
             "owner": "flipdp",
             "repo": "Stride.IK",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -674,7 +716,8 @@
             "owner": "JoshFlash",
             "repo": "ZenTween",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -689,7 +732,8 @@
             "owner": "manio143",
             "repo": "StrideIntroWorkshopNode20",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -704,7 +748,8 @@
             "owner": "najak3d",
             "repo": "Stride3D_Demos",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -719,7 +764,8 @@
             "owner": "VirtualBrightPlayz",
             "repo": "AutoImportStride",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -734,7 +780,8 @@
             "owner": "Redhacker1",
             "repo": "Q3MovementStride",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -749,7 +796,8 @@
             "owner": "Ethereal77",
             "repo": "Stride.ClientServerSample",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -764,7 +812,8 @@
             "owner": "Xisrith",
             "repo": "StrideLOD",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -779,7 +828,8 @@
             "owner": "corthax",
             "repo": "SuperCharacterController",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -794,7 +844,8 @@
             "owner": "spasarto",
             "repo": "Stride3dSplitScreen",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -809,7 +860,8 @@
             "owner": "johang88",
             "repo": "Stride-Tessellation",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -824,7 +876,8 @@
             "owner": "ykafia",
             "repo": "StrideGltf",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -839,7 +892,8 @@
             "owner": "manio143",
             "repo": "StrideConstraintsDemo",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -854,7 +908,8 @@
             "owner": "manio143",
             "repo": "BeatDetection",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -869,7 +924,8 @@
             "owner": "lparkermg",
             "repo": "LPSoft.Stride.InputExtensions",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -884,7 +940,8 @@
             "owner": "johang88",
             "repo": "StrideSourceGeneratorTest",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -899,7 +956,8 @@
             "owner": "herocrab",
             "repo": "StrideCameraController",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -914,7 +972,8 @@
             "owner": "nanotimb",
             "repo": "Ctrl",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -929,7 +988,8 @@
             "owner": "Doprez",
             "repo": "stride-ui-alternate-example",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -944,7 +1004,8 @@
             "owner": "gearsin",
             "repo": "Stride.Demo.Gizmo",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -964,7 +1025,8 @@
                 "owner": "Doprez",
                 "repo": "Stride.DebugShapes",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             }
           ],
           "repo_info": {
@@ -975,7 +1037,8 @@
             "owner": "profan",
             "repo": "XenkoDebugRendering",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -990,7 +1053,8 @@
             "owner": "johang88",
             "repo": "StrideConfigurationReference",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -1005,7 +1069,8 @@
             "owner": "SoulRider",
             "repo": "StrideOutlineRenderer",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "children": [
@@ -1022,7 +1087,8 @@
                 "owner": "WhyPenguins",
                 "repo": "XenkoVoxelGI",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             },
             {
               "node_type": "item",
@@ -1042,7 +1108,8 @@
                     "owner": "tebjan",
                     "repo": "StrideLiveEditor",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:41:42.553Z"
                 }
               ],
               "repo_info": {
@@ -1053,7 +1120,8 @@
                 "owner": "treplogle",
                 "repo": "XenkoLiveEditor",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             },
             {
               "node_type": "item",
@@ -1068,7 +1136,8 @@
                 "owner": "Jarb2104",
                 "repo": "Stride-VoxelScape",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             },
             {
               "node_type": "item",
@@ -1083,7 +1152,8 @@
                 "owner": "NckHmml",
                 "repo": "ParadoxCraft",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             },
             {
               "node_type": "item",
@@ -1098,7 +1168,8 @@
                 "owner": "Doprez",
                 "repo": "stride-voxelscape",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             }
           ],
           "description": "These are projects that definitely will not work with Stride 4.x without massive rewrites but were made with the old versions of Stride FKA Xenko or Paradox game engine.",
@@ -1124,7 +1195,8 @@
             "owner": "stride3d",
             "repo": "stride-docs",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -1139,7 +1211,8 @@
             "owner": "tebjan",
             "repo": "Stride.CustomRootRenderFeature",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -1154,7 +1227,8 @@
             "owner": "manio143",
             "repo": "StrideComponentsEditorAvalonia",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         }
       ],
       "title": "Engine Documentation"
@@ -1180,7 +1254,8 @@
                 "owner": "Nicogo1705",
                 "repo": "Stride.BepuPhysics",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             },
             {
               "node_type": "item",
@@ -1195,7 +1270,8 @@
                 "owner": "Doprez",
                 "repo": "Doprez.Stride.AI",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             }
           ]
         },
@@ -1217,7 +1293,8 @@
                 "owner": "Doprez",
                 "repo": "stride-npc",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             },
             {
               "node_type": "item",
@@ -1232,7 +1309,8 @@
                 "owner": "Doprez",
                 "repo": "stride-goap",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             }
           ]
         }
@@ -1251,11 +1329,12 @@
             "archived": false,
             "id": 136570231,
             "language": "C#",
-            "last_commit": "2026-08-25T22:37:46Z",
+            "last_commit": "2026-08-28T12:46:16Z",
             "owner": "stride3d",
             "repo": "stride",
-            "stars": 7806
-          }
+            "stars": 7808
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -1266,11 +1345,12 @@
             "archived": false,
             "id": 598236969,
             "language": "C#",
-            "last_commit": "2026-08-26T16:54:51Z",
+            "last_commit": "2026-08-27T17:58:51Z",
             "owner": "vvvv",
             "repo": "VL.StandardLibs",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -1285,7 +1365,8 @@
             "owner": "tebjan",
             "repo": "Stride.ShaderExplorer",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -1300,7 +1381,8 @@
             "owner": "bj-rn",
             "repo": "VL.Addons",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -1315,7 +1397,8 @@
             "owner": "Nicogo1705",
             "repo": "StrideMarchingCubeSystem",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -1330,7 +1413,8 @@
             "owner": "Nicogo1705",
             "repo": "StrideMarchingCubeSystem",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -1345,7 +1429,8 @@
             "owner": "herocrab",
             "repo": "StrideMeshOutlineRenderFeature",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -1360,7 +1445,8 @@
             "owner": "ykafia",
             "repo": "Stride-Awesome-Shaders",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -1375,7 +1461,8 @@
             "owner": "ykafia",
             "repo": "UnrealMotion",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -1390,7 +1477,8 @@
             "owner": "jeske",
             "repo": "StrideWireframeShader",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -1405,7 +1493,8 @@
             "owner": "herocrab",
             "repo": "StrideTriplanarShader",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         }
       ],
       "title": "Shaders"
@@ -1426,7 +1515,8 @@
             "owner": "torinos-yt",
             "repo": "VL.GlassWindow",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -1441,7 +1531,8 @@
             "owner": "torinos-yt",
             "repo": "VL.Boids-GPU",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -1456,7 +1547,8 @@
             "owner": "tebjan",
             "repo": "StrideUIPageDemo",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         }
       ],
       "title": "Visual Programming"
@@ -1477,7 +1569,8 @@
             "owner": "johang88",
             "repo": "TR.Stride",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -1492,7 +1585,8 @@
             "owner": "johang88",
             "repo": "StrideTerrain",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -1507,7 +1601,8 @@
             "owner": "TomGroner",
             "repo": "XenkoTerrain",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -1522,7 +1617,8 @@
             "owner": "SilentCLD",
             "repo": "XenkoMCTerrain",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -1537,7 +1633,8 @@
             "owner": "SilentCLD",
             "repo": "XenkoHMTerrain",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -1552,7 +1649,8 @@
             "owner": "Jarb2104",
             "repo": "Stride-VoxelScape",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         }
       ],
       "title": "Terrain"
@@ -1572,8 +1670,9 @@
             "last_commit": "2026-08-04T12:14:09Z",
             "owner": "RevenantX",
             "repo": "LiteEntitySystem",
-            "stars": 328
-          }
+            "stars": 329
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -1588,7 +1687,8 @@
             "owner": "Delta3-Studio",
             "repo": "Backdash",
             "stars": 173
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -1603,7 +1703,8 @@
             "owner": "defraswiew",
             "repo": "GalaxyCore",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -1618,7 +1719,8 @@
             "owner": "jiowchern",
             "repo": "Regulus.Remote",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -1633,7 +1735,8 @@
             "owner": "ly3027929699",
             "repo": "ET-Stride",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -1648,7 +1751,8 @@
             "owner": "manio143",
             "repo": "Stride.Networking.Simple",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -1663,7 +1767,8 @@
             "owner": "JoseJohnen",
             "repo": "MUD_SKELETON",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         }
       ],
       "title": "Networking"
@@ -1684,7 +1789,8 @@
             "owner": "MyraUI",
             "repo": "Myra",
             "stars": 874
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -1699,7 +1805,8 @@
             "owner": "EmptyKeys",
             "repo": "UI_Engines",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -1714,7 +1821,8 @@
             "owner": "TheKeyblader",
             "repo": "Stridelonia",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -1729,7 +1837,8 @@
             "owner": "Eideren",
             "repo": "StrideCommunity.ImGuiDebug",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -1744,7 +1853,8 @@
             "owner": "jhimes144",
             "repo": "AvaStride",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         }
       ],
       "title": "Alternative UI Plugins"
@@ -1770,7 +1880,8 @@
                 "owner": "lionfire",
                 "repo": "LionFire.Stride.Ultralight",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             },
             {
               "node_type": "item",
@@ -1785,7 +1896,8 @@
                 "owner": "windperson",
                 "repo": "-StrideGameNet5WinFormsDemo",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             },
             {
               "node_type": "item",
@@ -1800,7 +1912,8 @@
                 "owner": "Doprez",
                 "repo": "avalonia-hosted-stride",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             }
           ]
         },
@@ -1818,11 +1931,12 @@
                 "archived": false,
                 "id": 598236969,
                 "language": "C#",
-                "last_commit": "2026-08-26T16:54:51Z",
+                "last_commit": "2026-08-27T17:58:51Z",
                 "owner": "vvvv",
                 "repo": "VL.StandardLibs",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             }
           ]
         }
@@ -1850,7 +1964,8 @@
                 "owner": "phr00t",
                 "repo": "FocusEngine",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             },
             {
               "node_type": "item",
@@ -1865,7 +1980,8 @@
                 "owner": "BenTec3d",
                 "repo": "VVVVarkle",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             }
           ]
         },
@@ -1887,7 +2003,8 @@
                 "owner": "Schossi",
                 "repo": "LD54",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             }
           ]
         },
@@ -1909,7 +2026,8 @@
                 "owner": "mmujic2",
                 "repo": "StrideAsteroids",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T16:41:42.553Z"
             }
           ]
         }
@@ -1932,7 +2050,8 @@
             "owner": "dfkeenan",
             "repo": "StrideToolkit",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -1943,11 +2062,12 @@
             "archived": false,
             "id": 695866427,
             "language": "C#",
-            "last_commit": "2026-08-27T00:07:29Z",
+            "last_commit": "2026-08-28T09:26:09Z",
             "owner": "VaclavElias",
             "repo": "stride-community-toolkit",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -1962,7 +2082,8 @@
             "owner": "Doprez",
             "repo": "Doprez.Stride",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -1977,7 +2098,8 @@
             "owner": "Doprez",
             "repo": "Stride.Zones",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         }
       ],
       "title": "Extension Libraries"
@@ -1998,7 +2120,8 @@
             "owner": "tebjan",
             "repo": "StrideLiveEditor",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -2013,7 +2136,8 @@
             "owner": "JackPilley",
             "repo": "BlenderToStrideAnimationSeparator",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -2028,7 +2152,8 @@
             "owner": "VirtualBrightPlayz",
             "repo": "AutoImportStride",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -2043,7 +2168,8 @@
             "owner": "spasarto",
             "repo": "Microsoft.Extensions.Hosting.Stride3d",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         },
         {
           "node_type": "item",
@@ -2058,14 +2184,15 @@
             "owner": "Doprez",
             "repo": "stride-gamestudio-nuget",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
         }
       ],
       "title": "Misc"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:17:54.475Z",
+    "last_updated": "2026-08-28T16:41:42.553Z",
     "original_repository_info": {
       "archived": false,
       "id": 616699778,
