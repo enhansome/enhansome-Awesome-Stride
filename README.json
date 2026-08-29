@@ -15,12 +15,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "...the little C# ECS that loves you back! 🦊",
+                "homepage": "https://fennecs.net",
                 "id": 762472263,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-06T11:49:36Z",
+                "open_issues": 7,
                 "owner": "outfox",
                 "repo": "fennecs",
-                "stars": 462
+                "stars": 462,
+                "topics": [
+                  "csharp",
+                  "dotnet",
+                  "ecs",
+                  "entity-component-system",
+                  "game-development",
+                  "net8"
+                ]
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             },
@@ -31,12 +43,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Svelto.ECS and Svelto.Tasks Mini Examples for Unity",
+                "homepage": "http://www.sebaslab.com/",
                 "id": 170320609,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2025-05-07T19:18:50Z",
+                "open_issues": 1,
                 "owner": "sebas77",
                 "repo": "Svelto.MiniExamples",
-                "stars": 147
+                "stars": 147,
+                "topics": [
+                  "burst",
+                  "csharp",
+                  "ecs",
+                  "entity-component-system",
+                  "multithreading",
+                  "svelto-ecs",
+                  "unity",
+                  "unity3d"
+                ]
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             },
@@ -47,12 +73,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An example in Stride using Arch ECS.",
+                "homepage": null,
                 "id": 714501836,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-10-11T14:20:32Z",
+                "open_issues": 0,
                 "owner": "Doprez",
                 "repo": "stride-arch-ecs",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             },
@@ -63,12 +94,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 694937771,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2023-10-27T16:12:55Z",
+                "open_issues": 0,
                 "owner": "Doprez",
                 "repo": "lod-example",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             },
@@ -79,12 +115,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A demo of pathfinding for 20,000 entities with instanced models!",
+                "homepage": null,
                 "id": 693241832,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-01-01T20:58:23Z",
+                "open_issues": 0,
                 "owner": "Doprez",
                 "repo": "stride-pathfinding-demo",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             }
@@ -108,12 +149,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Xenko GDC 2017 demo (by Silicon Studio)",
+                "homepage": null,
                 "id": 183407868,
                 "language": "Mathematica",
+                "license": "NOASSERTION",
                 "last_commit": "2022-02-22T15:54:50Z",
+                "open_issues": 2,
                 "owner": "stride3d",
                 "repo": "Starbreach",
-                "stars": 68
+                "stars": 68,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             },
@@ -124,12 +170,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A 3D Third Pirson Shooter with musical zombies #MadeWithStride",
+                "homepage": null,
                 "id": 294134575,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2021-05-03T17:27:59Z",
+                "open_issues": 5,
                 "owner": "manio143",
                 "repo": "RiseOfTheUndeaf",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             },
@@ -140,12 +191,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Asteroids made with Stride 4",
+                "homepage": null,
                 "id": 281218493,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2020-07-30T22:54:07Z",
+                "open_issues": 0,
                 "owner": "LanceJZ",
                 "repo": "Stride-Asteroids",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             },
@@ -156,12 +212,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a basic platformer I will use for Stride tutorials.",
+                "homepage": null,
                 "id": 601476049,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2023-06-13T16:03:13Z",
+                "open_issues": 0,
                 "owner": "Doprez",
                 "repo": "stride-platformer",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "stride3d"
+                ]
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             },
@@ -172,12 +235,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Created with the Stride Game Engine",
+                "homepage": null,
                 "id": 286596150,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2020-11-02T10:17:21Z",
+                "open_issues": 0,
                 "owner": "joaovsq",
                 "repo": "Zerobot",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             },
@@ -188,12 +256,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Videojuego 1v1 en base a turnos - Stride",
+                "homepage": "https://yerkoandrei.itch.io/terracota",
                 "id": 694345066,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2025-02-27T00:37:39Z",
+                "open_issues": 0,
                 "owner": "YerkoAndrei",
                 "repo": "Terracota",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             },
@@ -204,12 +277,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An opensource game I made back in 2020 to learn Stride engine.",
+                "homepage": null,
                 "id": 763422205,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2024-02-26T10:38:31Z",
+                "open_issues": 0,
                 "owner": "Aggror",
                 "repo": "RollerGhosterOpen",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             }
@@ -228,12 +306,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of helpers and extensions for Stride Game Engine developers. Simplifies and demonstrates common developer tasks building experiences for Stride with .NET.",
+            "homepage": "https://stride3d.github.io/stride-community-toolkit/index.html",
             "id": 456571273,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-19T07:21:26Z",
+            "open_issues": 58,
             "owner": "stride3d",
             "repo": "stride-community-toolkit",
-            "stars": 128
+            "stars": 128,
+            "topics": [
+              "csharp",
+              "game-developement",
+              "game-engine",
+              "gamedev",
+              "stride"
+            ]
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -244,12 +333,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Integrating [Bepu Physics v2](https://github.com/bepu/bepuphysics2) into [Stride](https://github.com/stride3d/stride).",
+            "homepage": null,
             "id": 694352486,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2024-10-12T13:32:56Z",
+            "open_issues": 8,
             "owner": "Nicogo1705",
             "repo": "Stride.BepuPhysics",
-            "stars": 55
+            "stars": 55,
+            "topics": [
+              "3d",
+              "bepuphysicsv2",
+              "engine",
+              "physics",
+              "stride"
+            ]
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -265,12 +365,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 226187682,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-06-20T10:54:08Z",
+                "open_issues": 2,
                 "owner": "Basewq",
                 "repo": "XenkoProofOfConcepts",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             },
@@ -281,12 +386,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 226187682,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-06-20T10:54:08Z",
+                "open_issues": 2,
                 "owner": "Basewq",
                 "repo": "XenkoProofOfConcepts",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             },
@@ -297,12 +407,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 226187682,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-06-20T10:54:08Z",
+                "open_issues": 2,
                 "owner": "Basewq",
                 "repo": "XenkoProofOfConcepts",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             },
@@ -313,12 +428,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 226187682,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-06-20T10:54:08Z",
+                "open_issues": 2,
                 "owner": "Basewq",
                 "repo": "XenkoProofOfConcepts",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             },
@@ -329,12 +449,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 226187682,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-06-20T10:54:08Z",
+                "open_issues": 2,
                 "owner": "Basewq",
                 "repo": "XenkoProofOfConcepts",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             },
@@ -345,12 +470,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 226187682,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-06-20T10:54:08Z",
+                "open_issues": 2,
                 "owner": "Basewq",
                 "repo": "XenkoProofOfConcepts",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             },
@@ -361,12 +491,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 226187682,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-06-20T10:54:08Z",
+                "open_issues": 2,
                 "owner": "Basewq",
                 "repo": "XenkoProofOfConcepts",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             },
@@ -377,12 +512,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 226187682,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-06-20T10:54:08Z",
+                "open_issues": 2,
                 "owner": "Basewq",
                 "repo": "XenkoProofOfConcepts",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             },
@@ -393,12 +533,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 226187682,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-06-20T10:54:08Z",
+                "open_issues": 2,
                 "owner": "Basewq",
                 "repo": "XenkoProofOfConcepts",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             },
@@ -409,24 +554,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 226187682,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-06-20T10:54:08Z",
+                "open_issues": 2,
                 "owner": "Basewq",
                 "repo": "XenkoProofOfConcepts",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 226187682,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-06-20T10:54:08Z",
+            "open_issues": 2,
             "owner": "Basewq",
             "repo": "XenkoProofOfConcepts",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -442,12 +597,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Some Xenko usage samples for Xenko 3.1.0.1 beta",
+                "homepage": null,
                 "id": 168773006,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2019-11-08T11:11:06Z",
+                "open_issues": 5,
                 "owner": "profan",
                 "repo": "XenkoByteSized",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "game-development",
+                  "sample-code",
+                  "xenko"
+                ]
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             },
@@ -458,12 +622,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Some Xenko usage samples for Xenko 3.1.0.1 beta",
+                "homepage": null,
                 "id": 168773006,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2019-11-08T11:11:06Z",
+                "open_issues": 5,
                 "owner": "profan",
                 "repo": "XenkoByteSized",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "game-development",
+                  "sample-code",
+                  "xenko"
+                ]
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             },
@@ -474,12 +647,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Some Xenko usage samples for Xenko 3.1.0.1 beta",
+                "homepage": null,
                 "id": 168773006,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2019-11-08T11:11:06Z",
+                "open_issues": 5,
                 "owner": "profan",
                 "repo": "XenkoByteSized",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "game-development",
+                  "sample-code",
+                  "xenko"
+                ]
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             },
@@ -490,12 +672,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Some Xenko usage samples for Xenko 3.1.0.1 beta",
+                "homepage": null,
                 "id": 168773006,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2019-11-08T11:11:06Z",
+                "open_issues": 5,
                 "owner": "profan",
                 "repo": "XenkoByteSized",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "game-development",
+                  "sample-code",
+                  "xenko"
+                ]
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             },
@@ -506,24 +697,42 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Some Xenko usage samples for Xenko 3.1.0.1 beta",
+                "homepage": null,
                 "id": 168773006,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2019-11-08T11:11:06Z",
+                "open_issues": 5,
                 "owner": "profan",
                 "repo": "XenkoByteSized",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "game-development",
+                  "sample-code",
+                  "xenko"
+                ]
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "Some Xenko usage samples for Xenko 3.1.0.1 beta",
+            "homepage": null,
             "id": 168773006,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2019-11-08T11:11:06Z",
+            "open_issues": 5,
             "owner": "profan",
             "repo": "XenkoByteSized",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "game-development",
+              "sample-code",
+              "xenko"
+            ]
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -534,12 +743,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An example how to create a custom asset for Stride game engine",
+            "homepage": null,
             "id": 311805922,
             "language": "C#",
+            "license": null,
             "last_commit": "2021-08-22T11:55:28Z",
+            "open_issues": 0,
             "owner": "manio143",
             "repo": "StrideCustomAsset",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -550,12 +764,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Stride3D tutorials and examples in .NET 5 using C# 9.0 or .NET 6 using C# 10. ",
+            "homepage": null,
             "id": 424373053,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2024-10-05T23:02:02Z",
+            "open_issues": 0,
             "owner": "VaclavElias",
             "repo": "Stride3DTutorials",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "csharp",
+              "dotnet",
+              "game-development",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -566,12 +790,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A demo for creating simple water using a flow map strategy and the Xenko game engine.",
+            "homepage": null,
             "id": 167710748,
             "language": "C#",
+            "license": "LGPL-3.0",
             "last_commit": "2020-10-23T17:46:12Z",
+            "open_issues": 1,
             "owner": "TomGroner",
             "repo": "XenkoFlowingWater",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "csharp",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "xenko"
+            ]
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -582,12 +817,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 479712153,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2022-04-10T10:26:10Z",
+            "open_issues": 0,
             "owner": "johang88",
             "repo": "StrideSimpleWater",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -598,12 +838,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stride Fog Of War Plus - System",
+            "homepage": null,
             "id": 204605196,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2021-04-25T19:41:24Z",
+            "open_issues": 0,
             "owner": "herocrab",
             "repo": "StrideFogOfWarPlus",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -614,12 +859,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Test project for geometry transformation instancing for the Stride game engine (fka Xenko)",
+            "homepage": null,
             "id": 267678655,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2021-01-13T13:47:18Z",
+            "open_issues": 0,
             "owner": "tebjan",
             "repo": "StrideTransformationInstancing",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -630,12 +880,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A test project for running multiple scenes in the Stride game engine simultaneously",
+            "homepage": null,
             "id": 399163384,
             "language": "C#",
+            "license": null,
             "last_commit": "2021-08-23T19:47:04Z",
+            "open_issues": 0,
             "owner": "julyfortoday",
             "repo": "StrideParallelScenes",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -646,12 +901,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This was pulled from LyingDwarf's BitBucket long ago now converted to Stride. Uploading for the stride community to look at it and play with it.",
+            "homepage": null,
             "id": 719635278,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2023-11-16T18:33:51Z",
+            "open_issues": 0,
             "owner": "Jarb2104",
             "repo": "Stride-VoxelScape",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -662,12 +922,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example of making a procedural model in the Stride game engine (fka Xenko)",
+            "homepage": null,
             "id": 266112153,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2021-10-26T09:58:05Z",
+            "open_issues": 1,
             "owner": "tebjan",
             "repo": "StrideProceduralModel",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -678,12 +943,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Stride3d sample which loads a Wavefront OBJ file at runtime",
+            "homepage": null,
             "id": 260344073,
             "language": "C#",
+            "license": null,
             "last_commit": "2020-05-11T03:59:28Z",
+            "open_issues": 0,
             "owner": "jeske",
             "repo": "LoadObjTest",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -694,12 +964,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 392640664,
             "language": "C#",
+            "license": null,
             "last_commit": "2021-08-10T12:07:04Z",
+            "open_issues": 0,
             "owner": "flipdp",
             "repo": "Stride.IK",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -710,12 +985,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 372448678,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2021-06-12T01:17:04Z",
+            "open_issues": 0,
             "owner": "JoshFlash",
             "repo": "ZenTween",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -726,12 +1006,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Materials for the \"Working with the Stride GameStudio\" workshop @ NODE20 Forum for digital arts",
+            "homepage": null,
             "id": 301160061,
             "language": "C#",
+            "license": null,
             "last_commit": "2020-10-06T19:33:33Z",
+            "open_issues": 0,
             "owner": "manio143",
             "repo": "StrideIntroWorkshopNode20",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -742,12 +1027,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demos for Stride3D Game Engine - with focus on Code-Only approach",
+            "homepage": null,
             "id": 472116532,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2022-04-05T08:16:37Z",
+            "open_issues": 0,
             "owner": "najak3d",
             "repo": "Stride3D_Demos",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -758,12 +1048,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A script to import files into Stride3D.",
+            "homepage": null,
             "id": 314103000,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2020-11-19T05:08:03Z",
+            "open_issues": 0,
             "owner": "VirtualBrightPlayz",
             "repo": "AutoImportStride",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "stride"
+            ]
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -774,12 +1071,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A port of WiggleWizard's Q3 movement script for unity to Stride3D(Formerly Xenko)",
+            "homepage": null,
             "id": 313670112,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2021-06-04T20:10:51Z",
+            "open_issues": 0,
             "owner": "Redhacker1",
             "repo": "Q3MovementStride",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -790,12 +1092,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stride Game sample + headless Server",
+            "homepage": null,
             "id": 678158897,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2023-08-14T19:53:16Z",
+            "open_issues": 0,
             "owner": "Ethereal77",
             "repo": "Stride.ClientServerSample",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -806,12 +1113,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Working on a new LOD system for the Stride 3D game engine. Note, this repo is very volatile.",
+            "homepage": null,
             "id": 330507623,
             "language": "C#",
+            "license": null,
             "last_commit": "2021-01-17T23:51:01Z",
+            "open_issues": 0,
             "owner": "Xisrith",
             "repo": "StrideLOD",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -822,12 +1134,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Character controller for Stride Game Engine.",
+            "homepage": null,
             "id": 577347674,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2023-01-04T17:40:34Z",
+            "open_issues": 0,
             "owner": "corthax",
             "repo": "SuperCharacterController",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -838,12 +1155,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 381759435,
             "language": "C#",
+            "license": null,
             "last_commit": "2021-06-30T16:28:29Z",
+            "open_issues": 0,
             "owner": "spasarto",
             "repo": "Stride3dSplitScreen",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -854,12 +1176,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stride Tessellation Sample",
+            "homepage": null,
             "id": 308940543,
             "language": "C#",
+            "license": null,
             "last_commit": "2020-10-31T17:53:07Z",
+            "open_issues": 0,
             "owner": "johang88",
             "repo": "Stride-Tessellation",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -870,12 +1197,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "(WIP) A little example to import gltf in stride",
+            "homepage": null,
             "id": 298998307,
             "language": "C#",
+            "license": null,
             "last_commit": "2021-03-01T22:13:28Z",
+            "open_issues": 0,
             "owner": "ykafia",
             "repo": "StrideGltf",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -886,12 +1218,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demo of Bullet constraints set up in Stride",
+            "homepage": null,
             "id": 396320239,
             "language": "C#",
+            "license": null,
             "last_commit": "2021-08-15T12:05:12Z",
+            "open_issues": 0,
             "owner": "manio143",
             "repo": "StrideConstraintsDemo",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -902,12 +1239,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A rough C# implementation of a beat detection algorithm for wav files",
+            "homepage": null,
             "id": 297166295,
             "language": "C#",
+            "license": null,
             "last_commit": "2021-05-01T16:07:16Z",
+            "open_issues": 0,
             "owner": "manio143",
             "repo": "BeatDetection",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -918,12 +1260,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Input Extensions to use with Stride3D",
+            "homepage": null,
             "id": 460599897,
             "language": "C#",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-02-26T13:48:26Z",
+            "open_issues": 0,
             "owner": "lparkermg",
             "repo": "LPSoft.Stride.InputExtensions",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -934,12 +1281,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stride example for using source generators",
+            "homepage": null,
             "id": 404387400,
             "language": "C#",
+            "license": null,
             "last_commit": "2021-09-08T14:56:14Z",
+            "open_issues": 0,
             "owner": "johang88",
             "repo": "StrideSourceGeneratorTest",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -950,12 +1302,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Camera Controller - Activating new cameras and raycasting through them (Resident Evil Style)",
+            "homepage": null,
             "id": 298424611,
             "language": "C#",
+            "license": null,
             "last_commit": "2021-04-28T00:21:32Z",
+            "open_issues": 0,
             "owner": "herocrab",
             "repo": "StrideCameraController",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -966,12 +1323,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Input system wrapper built on Stride's native input system",
+            "homepage": null,
             "id": 287813048,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2020-10-30T00:24:00Z",
+            "open_issues": 0,
             "owner": "nanotimb",
             "repo": "Ctrl",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "csharp",
+              "stride3d"
+            ]
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -982,12 +1347,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "an example project that shows how to use myra UI with stride",
+            "homepage": null,
             "id": 604403884,
             "language": "C#",
+            "license": null,
             "last_commit": "2023-03-08T15:18:33Z",
+            "open_issues": 0,
             "owner": "Doprez",
             "repo": "stride-ui-alternate-example",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -998,12 +1368,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example to showcase how to implement custom gizmo using Stride engine",
+            "homepage": null,
             "id": 726500771,
             "language": "C#",
+            "license": null,
             "last_commit": "2023-12-02T15:39:24Z",
+            "open_issues": 1,
             "owner": "gearsin",
             "repo": "Stride.Demo.Gizmo",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -1019,24 +1394,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "an update from Profans debug shape PR to avoid awaiting approval and just be able to use it.",
+                "homepage": null,
                 "id": 730827212,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2023-12-12T19:07:44Z",
+                "open_issues": 0,
                 "owner": "Doprez",
                 "repo": "Stride.DebugShapes",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "WIP",
+            "homepage": null,
             "id": 180221834,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2019-09-24T20:45:28Z",
+            "open_issues": 4,
             "owner": "profan",
             "repo": "XenkoDebugRendering",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -1047,12 +1432,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 367099945,
             "language": "C#",
+            "license": null,
             "last_commit": "2021-05-13T15:56:40Z",
+            "open_issues": 0,
             "owner": "johang88",
             "repo": "StrideConfigurationReference",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -1063,12 +1453,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stride Outline Renderer - Renderer for Rendering 3D Object (Model Component) Outlines",
+            "homepage": null,
             "id": 309533163,
             "language": null,
+            "license": null,
             "last_commit": "2020-10-22T17:44:28Z",
+            "open_issues": 0,
             "owner": "SoulRider",
             "repo": "StrideOutlineRenderer",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -1081,12 +1476,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A voxel cone tracing implementation for the Xenko game engine!",
+                "homepage": null,
                 "id": 196611715,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2019-10-21T13:29:19Z",
+                "open_issues": 0,
                 "owner": "WhyPenguins",
                 "repo": "XenkoVoxelGI",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             },
@@ -1102,24 +1502,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Live entity editing for Stride (fka Xenko) games.",
+                    "homepage": "http://stride3d.net/",
                     "id": 186710059,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2024-02-27T13:42:11Z",
+                    "open_issues": 0,
                     "owner": "tebjan",
                     "repo": "StrideLiveEditor",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:41:42.553Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Live entity editing for Xenko games.",
+                "homepage": null,
                 "id": 84630376,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2021-03-14T08:48:03Z",
+                "open_issues": 1,
                 "owner": "treplogle",
                 "repo": "XenkoLiveEditor",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             },
@@ -1130,12 +1540,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This was pulled from LyingDwarf's BitBucket long ago now converted to Stride. Uploading for the stride community to look at it and play with it.",
+                "homepage": null,
                 "id": 719635278,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2023-11-16T18:33:51Z",
+                "open_issues": 0,
                 "owner": "Jarb2104",
                 "repo": "Stride-VoxelScape",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             },
@@ -1146,12 +1561,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 30799303,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2015-03-02T18:04:51Z",
+                "open_issues": 0,
                 "owner": "NckHmml",
                 "repo": "ParadoxCraft",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             },
@@ -1162,12 +1582,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "an attempted port of a concept from LyingDwarf",
+                "homepage": null,
                 "id": 717309742,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2023-11-11T04:37:19Z",
+                "open_issues": 0,
                 "owner": "Doprez",
                 "repo": "stride-voxelscape",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             }
@@ -1189,12 +1614,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository hosts the source code for the Stride documentation. Contributors can follow the build instructions provided to run the website locally.",
+            "homepage": "https://doc.stride3d.net/",
             "id": 136592204,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2026-08-26T16:14:39Z",
+            "open_issues": 66,
             "owner": "stride3d",
             "repo": "stride-docs",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -1205,12 +1635,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demo implementation of a Stride root render feature that you can use in the graphics compositor",
+            "homepage": null,
             "id": 145155426,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2020-12-13T00:10:49Z",
+            "open_issues": 0,
             "owner": "tebjan",
             "repo": "Stride.CustomRootRenderFeature",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "3d-engine",
+              "3d-graphics",
+              "entity-component",
+              "game",
+              "game-dev",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "graphics-compositor",
+              "shader",
+              "stride",
+              "xenko"
+            ]
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -1221,12 +1669,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Experimental mini Stride.Editor in Avalonia",
+            "homepage": null,
             "id": 298029134,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2020-11-01T14:33:06Z",
+            "open_issues": 8,
             "owner": "manio143",
             "repo": "StrideComponentsEditorAvalonia",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "avalonia",
+              "stride"
+            ]
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         }
@@ -1248,12 +1704,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Integrating [Bepu Physics v2](https://github.com/bepu/bepuphysics2) into [Stride](https://github.com/stride3d/stride).",
+                "homepage": null,
                 "id": 694352486,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-10-12T13:32:56Z",
+                "open_issues": 8,
                 "owner": "Nicogo1705",
                 "repo": "Stride.BepuPhysics",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "3d",
+                  "bepuphysicsv2",
+                  "engine",
+                  "physics",
+                  "stride"
+                ]
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             },
@@ -1264,12 +1731,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a Library meant to be used to handle AI in Stride games",
+                "homepage": null,
                 "id": 596211114,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-10-28T01:31:30Z",
+                "open_issues": 0,
                 "owner": "Doprez",
                 "repo": "Doprez.Stride.AI",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "stride3d"
+                ]
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             }
@@ -1287,12 +1761,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A basic example of a Finite State Machine in the Stride game engine",
+                "homepage": null,
                 "id": 611028242,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2023-07-04T13:44:49Z",
+                "open_issues": 0,
                 "owner": "Doprez",
                 "repo": "stride-npc",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "stride3d"
+                ]
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             },
@@ -1303,12 +1784,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a very simple Goap implemetation for Stride using MountainGoap",
+                "homepage": null,
                 "id": 615840907,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2023-03-18T20:46:51Z",
+                "open_issues": 0,
                 "owner": "Doprez",
                 "repo": "stride-goap",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             }
@@ -1327,12 +1813,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stride (formerly Xenko), a free and open-source cross-platform C# game engine.",
+            "homepage": "https://stride3d.net",
             "id": 136570231,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-28T12:46:16Z",
+            "open_issues": 684,
             "owner": "stride3d",
             "repo": "stride",
-            "stars": 7808
+            "stars": 7809,
+            "topics": [
+              "csharp",
+              "direct3d",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "multi-platform",
+              "stride",
+              "vulkan",
+              "xenko"
+            ]
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -1343,12 +1844,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of standard libraries for vvvv including VL.Stride, VL.Skia, VL.ImGui, msgpack.org[VL]",
+            "homepage": "https://vvvv.org",
             "id": 598236969,
             "language": "C#",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-27T17:58:51Z",
+            "open_issues": 224,
             "owner": "vvvv",
             "repo": "VL.StandardLibs",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "creative-coding",
+              "creativecoding",
+              "skia",
+              "stride",
+              "visual-programming",
+              "visualprogramming",
+              "vl",
+              "vvvv"
+            ]
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -1359,12 +1874,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool showing the built-in shaders of the Stride game engine and vvvv gamma and their inheritance hierarchy",
+            "homepage": null,
             "id": 145221751,
             "language": "C#",
+            "license": null,
             "last_commit": "2026-03-08T16:23:49Z",
+            "open_issues": 2,
             "owner": "tebjan",
             "repo": "Stride.ShaderExplorer",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -1375,12 +1895,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A place to gather contributions by the vvvv community.",
+            "homepage": null,
             "id": 593136438,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-11T17:58:19Z",
+            "open_issues": 12,
             "owner": "bj-rn",
             "repo": "VL.Addons",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "vl",
+              "vvvv"
+            ]
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -1391,12 +1919,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Stride Compute shader that draw triangles at positions or an other that generate a mesh using marching cube technique. GPU",
+            "homepage": null,
             "id": 686483888,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-26T18:37:51Z",
+            "open_issues": 0,
             "owner": "Nicogo1705",
             "repo": "StrideMarchingCubeSystem",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -1407,12 +1940,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Stride Compute shader that draw triangles at positions or an other that generate a mesh using marching cube technique. GPU",
+            "homepage": null,
             "id": 686483888,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-26T18:37:51Z",
+            "open_issues": 0,
             "owner": "Nicogo1705",
             "repo": "StrideMarchingCubeSystem",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -1423,12 +1961,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stride Mesh Outline Render Feature",
+            "homepage": null,
             "id": 362284381,
             "language": "C#",
+            "license": null,
             "last_commit": "2021-04-28T11:50:05Z",
+            "open_issues": 2,
             "owner": "herocrab",
             "repo": "StrideMeshOutlineRenderFeature",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -1439,12 +1982,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Just a repository for cool shaders usable in stride",
+            "homepage": null,
             "id": 296851632,
             "language": null,
+            "license": null,
             "last_commit": "2021-04-19T14:17:26Z",
+            "open_issues": 0,
             "owner": "ykafia",
             "repo": "Stride-Awesome-Shaders",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -1455,12 +2003,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Motion blur for stride",
+            "homepage": null,
             "id": 422510202,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2022-07-17T19:11:34Z",
+            "open_issues": 0,
             "owner": "ykafia",
             "repo": "UnrealMotion",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "graphics",
+              "graphics-programming",
+              "motion-blur",
+              "motion-blur-shader",
+              "post-processing",
+              "sdsl",
+              "stride",
+              "stride3d"
+            ]
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -1471,12 +2033,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "single pass wireframe shader for stride / xenko",
+            "homepage": null,
             "id": 269164830,
             "language": "C#",
+            "license": null,
             "last_commit": "2020-06-06T16:32:42Z",
+            "open_issues": 2,
             "owner": "jeske",
             "repo": "StrideWireframeShader",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -1487,12 +2054,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Triplanar Shaders for Stride",
+            "homepage": null,
             "id": 362196594,
             "language": "C#",
+            "license": null,
             "last_commit": "2021-04-27T17:35:47Z",
+            "open_issues": 0,
             "owner": "herocrab",
             "repo": "StrideTriplanarShader",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         }
@@ -1509,12 +2081,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 491485259,
             "language": "C#",
+            "license": null,
             "last_commit": "2022-05-12T11:28:53Z",
+            "open_issues": 1,
             "owner": "torinos-yt",
             "repo": "VL.GlassWindow",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "vl",
+              "vvvv"
+            ]
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -1525,12 +2105,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 320346983,
             "language": null,
+            "license": null,
             "last_commit": "2022-01-13T02:39:23Z",
+            "open_issues": 0,
             "owner": "torinos-yt",
             "repo": "VL.Boids-GPU",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -1541,12 +2126,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quick demo of loading a UI page and using it's events in VL.",
+            "homepage": null,
             "id": 320913781,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2022-02-24T21:55:52Z",
+            "open_issues": 0,
             "owner": "tebjan",
             "repo": "StrideUIPageDemo",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         }
@@ -1563,12 +2153,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Various stride utilities / projects (stride3d.net)",
+            "homepage": null,
             "id": 293126467,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-03-23T14:34:45Z",
+            "open_issues": 8,
             "owner": "johang88",
             "repo": "TR.Stride",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -1579,12 +2174,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Terrain implementation for the Stride game engine",
+            "homepage": null,
             "id": 282856822,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2020-07-28T19:10:08Z",
+            "open_issues": 1,
             "owner": "johang88",
             "repo": "StrideTerrain",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -1595,12 +2195,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A demo for creating simple terrain using a height map strategy and the Xenko game engine.",
+            "homepage": null,
             "id": 168348771,
             "language": "C#",
+            "license": null,
             "last_commit": "2019-07-11T01:43:55Z",
+            "open_issues": 1,
             "owner": "TomGroner",
             "repo": "XenkoTerrain",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "csharp",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "xenko"
+            ]
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -1611,12 +2222,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Xenko Marching Cubes Terrain Example",
+            "homepage": null,
             "id": 208464070,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2019-09-15T18:47:26Z",
+            "open_issues": 0,
             "owner": "SilentCLD",
             "repo": "XenkoMCTerrain",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "csharp",
+              "gamedev",
+              "marching-cubes-terrain",
+              "terrain-generation",
+              "xenko",
+              "xenko-game-engine"
+            ]
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -1627,12 +2250,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Heightmap terrain example for the Xenko Engine",
+            "homepage": null,
             "id": 217151434,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2019-10-26T14:24:13Z",
+            "open_issues": 0,
             "owner": "SilentCLD",
             "repo": "XenkoHMTerrain",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "csharp",
+              "gamedev",
+              "terrain-generation",
+              "xenko",
+              "xenko-game-engine"
+            ]
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -1643,12 +2277,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This was pulled from LyingDwarf's BitBucket long ago now converted to Stride. Uploading for the stride community to look at it and play with it.",
+            "homepage": null,
             "id": 719635278,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2023-11-16T18:33:51Z",
+            "open_issues": 0,
             "owner": "Jarb2104",
             "repo": "Stride-VoxelScape",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         }
@@ -1665,12 +2304,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pure C# HighLevel API for multiplayer games",
+            "homepage": null,
             "id": 485379865,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-04T12:14:09Z",
+            "open_issues": 7,
             "owner": "RevenantX",
             "repo": "LiteEntitySystem",
-            "stars": 329
+            "stars": 329,
+            "topics": [
+              "csharp",
+              "dotnet",
+              "game-development",
+              "gamedev",
+              "litenetlib",
+              "mono",
+              "multiplayer",
+              "udp",
+              "unity"
+            ]
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -1681,12 +2335,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C# Rollback network SDK",
+            "homepage": null,
             "id": 690212135,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-07-03T22:46:33Z",
+            "open_issues": 21,
             "owner": "Delta3-Studio",
             "repo": "Backdash",
-            "stars": 173
+            "stars": 173,
+            "topics": [
+              "fighting-game",
+              "gamedev",
+              "ggpo",
+              "library",
+              "multiplayer",
+              "netcode",
+              "network",
+              "rollback",
+              "sdk",
+              "versus"
+            ]
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -1697,12 +2367,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Network Solution for Unity, Stride, Xenko, Unigine",
+            "homepage": null,
             "id": 223229683,
             "language": "C#",
+            "license": null,
             "last_commit": "2023-05-07T08:54:59Z",
+            "open_issues": 0,
             "owner": "defraswiew",
             "repo": "GalaxyCore",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -1713,12 +2388,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple C# network library.",
+            "homepage": null,
             "id": 10165710,
             "language": "C#",
+            "license": "BSD-2-Clause",
             "last_commit": "2025-01-06T07:10:09Z",
+            "open_issues": 0,
             "owner": "jiowchern",
             "repo": "Regulus.Remote",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "c-sharp",
+              "csharp",
+              "data-stream",
+              "greeter",
+              "il2cpp",
+              "netstandard20",
+              "network",
+              "remote-method-invocation",
+              "socket",
+              "stride3d",
+              "unity",
+              "unity-3d",
+              "unity3d",
+              "xenko"
+            ]
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -1729,12 +2424,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A networking framework based STRIDE and ET",
+            "homepage": null,
             "id": 694762217,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2023-09-25T11:06:39Z",
+            "open_issues": 0,
             "owner": "ly3027929699",
             "repo": "ET-Stride",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -1745,12 +2445,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple async event based lib for Stride with NetworkScript class for easy usage",
+            "homepage": null,
             "id": 396956343,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2021-08-19T11:45:40Z",
+            "open_issues": 0,
             "owner": "manio143",
             "repo": "Stride.Networking.Simple",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -1761,12 +2466,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Skeleton for a MUD of any description, it's a skeleton tho, barebones, it lacks some features from the comms systems and any integration of any protocol.",
+            "homepage": null,
             "id": 700545118,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2023-11-02T12:50:08Z",
+            "open_issues": 0,
             "owner": "JoseJohnen",
             "repo": "MUD_SKELETON",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         }
@@ -1783,12 +2493,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UI Library for MonoGame, FNA and Stride",
+            "homepage": "https://myraui.github.io/Myra/",
             "id": 66231101,
             "language": "C#",
-            "last_commit": "2026-08-21T15:42:59Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:47:44Z",
+            "open_issues": 74,
             "owner": "MyraUI",
             "repo": "Myra",
-            "stars": 874
+            "stars": 874,
+            "topics": [
+              "csharp",
+              "gamedev",
+              "gui",
+              "mit",
+              "monogame",
+              "myra",
+              "open-source",
+              "stride",
+              "xna"
+            ]
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -1799,12 +2524,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Engine specific libraries for Empty Keys UI",
+            "homepage": null,
             "id": 40826525,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-05-25T22:50:08Z",
+            "open_issues": 4,
             "owner": "EmptyKeys",
             "repo": "UI_Engines",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "fna",
+              "monogame",
+              "ui",
+              "ui-engines",
+              "xenko"
+            ]
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -1815,12 +2551,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stride plugin which allows running Avalonia on Stride",
+            "homepage": null,
             "id": 312939894,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2023-07-13T17:00:36Z",
+            "open_issues": 7,
             "owner": "TheKeyblader",
             "repo": "Stridelonia",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -1831,12 +2572,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bare-bone implementation of ImGui and a couple of debug tools for Stride",
+            "homepage": null,
             "id": 178055139,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-07-06T16:35:11Z",
+            "open_issues": 1,
             "owner": "Eideren",
             "repo": "StrideCommunity.ImGuiDebug",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -1847,12 +2593,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library that provides the ability to host an Avalonia app inside of the Stride game engine.",
+            "homepage": null,
             "id": 783082413,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2024-04-11T18:06:09Z",
+            "open_issues": 0,
             "owner": "jhimes144",
             "repo": "AvaStride",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         }
@@ -1874,12 +2625,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ultralig.ht integration for the Stride (stride3d.net) game engine",
+                "homepage": null,
                 "id": 327195248,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2021-01-09T14:13:24Z",
+                "open_issues": 0,
                 "owner": "lionfire",
                 "repo": "LionFire.Stride.Ultralight",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             },
@@ -1890,12 +2646,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stride Game Engine .NET 5 Windows Forms Demo",
+                "homepage": null,
                 "id": 400133225,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2021-08-26T10:45:05Z",
+                "open_issues": 0,
                 "owner": "windperson",
                 "repo": "-StrideGameNet5WinFormsDemo",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "demo-app",
+                  "dotnet5",
+                  "stride",
+                  "winforms"
+                ]
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             },
@@ -1906,12 +2672,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An example of using the Avalonia native handle to render Stride games",
+                "homepage": null,
                 "id": 782781592,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-09-17T01:45:46Z",
+                "open_issues": 0,
                 "owner": "Doprez",
                 "repo": "avalonia-hosted-stride",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             }
@@ -1929,12 +2700,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of standard libraries for vvvv including VL.Stride, VL.Skia, VL.ImGui, msgpack.org[VL]",
+                "homepage": "https://vvvv.org",
                 "id": 598236969,
                 "language": "C#",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-08-27T17:58:51Z",
+                "open_issues": 224,
                 "owner": "vvvv",
                 "repo": "VL.StandardLibs",
-                "stars": 63
+                "stars": 63,
+                "topics": [
+                  "creative-coding",
+                  "creativecoding",
+                  "skia",
+                  "stride",
+                  "visual-programming",
+                  "visualprogramming",
+                  "vl",
+                  "vvvv"
+                ]
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             }
@@ -1958,12 +2743,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Focus Game Engine. This is Stride/Xenko fast-tracked for Phr00t's Software games. Improvements over the original Focus on Vulkan support, PC platforms, VR, performance & ease. Cherry-picks commits from other forks as needed.",
+                "homepage": null,
                 "id": 165673805,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-05-28T04:23:29Z",
+                "open_issues": 7,
                 "owner": "phr00t",
                 "repo": "FocusEngine",
-                "stars": 105
+                "stars": 105,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             },
@@ -1974,12 +2764,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VVVVarkle is an online multiplayer dice game based on the Farkle rules.",
+                "homepage": null,
                 "id": 366872761,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2022-03-22T17:17:43Z",
+                "open_issues": 1,
                 "owner": "BenTec3d",
                 "repo": "VVVVarkle",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             }
@@ -1997,12 +2792,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 698571415,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2023-10-07T05:14:06Z",
+                "open_issues": 0,
                 "owner": "Schossi",
                 "repo": "LD54",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             }
@@ -2020,12 +2820,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "\"Advanced\" asteroids game made using Stride Game Engine",
+                "homepage": null,
                 "id": 698423088,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-01-10T20:35:19Z",
+                "open_issues": 0,
                 "owner": "mmujic2",
                 "repo": "StrideAsteroids",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
             }
@@ -2044,12 +2849,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stride Toolkit is a .NET Standard library for use with the Stride Game Engine.",
+            "homepage": null,
             "id": 103735800,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2024-09-28T05:34:22Z",
+            "open_issues": 2,
             "owner": "dfkeenan",
             "repo": "StrideToolkit",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "stride",
+              "xenko"
+            ]
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -2060,12 +2873,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of helpers and extensions for Stride Game Engine developers. Simplifies and demonstrates common developer tasks building experiences for Stride with .NET.",
+            "homepage": "https://stride3d.net",
             "id": 695866427,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-28T09:26:09Z",
+            "open_issues": 10,
             "owner": "VaclavElias",
             "repo": "stride-community-toolkit",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -2076,12 +2894,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A bundle of Stride related libraries",
+            "homepage": null,
             "id": 507618360,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-02-15T23:58:31Z",
+            "open_issues": 0,
             "owner": "Doprez",
             "repo": "Doprez.Stride",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "stride3d"
+            ]
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -2092,12 +2917,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A package to define zones in stride with a visual debugger.",
+            "homepage": null,
             "id": 789066066,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-02-20T15:03:44Z",
+            "open_issues": 2,
             "owner": "Doprez",
             "repo": "Stride.Zones",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         }
@@ -2114,12 +2944,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Live entity editing for Stride (fka Xenko) games.",
+            "homepage": "http://stride3d.net/",
             "id": 186710059,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2024-02-27T13:42:11Z",
+            "open_issues": 0,
             "owner": "tebjan",
             "repo": "StrideLiveEditor",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -2130,12 +2965,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A blender 3.3 script that exports actions as separate fbx files for use in Stride 3D.",
+            "homepage": null,
             "id": 366946174,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-11-22T21:57:55Z",
+            "open_issues": 0,
             "owner": "JackPilley",
             "repo": "BlenderToStrideAnimationSeparator",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -2146,12 +2986,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A script to import files into Stride3D.",
+            "homepage": null,
             "id": 314103000,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2020-11-19T05:08:03Z",
+            "open_issues": 0,
             "owner": "VirtualBrightPlayz",
             "repo": "AutoImportStride",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "stride"
+            ]
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -2162,12 +3009,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hosting lifetime for Stride3d",
+            "homepage": null,
             "id": 382197583,
             "language": "C#",
+            "license": null,
             "last_commit": "2023-10-12T01:48:57Z",
+            "open_issues": 0,
             "owner": "spasarto",
             "repo": "Microsoft.Extensions.Hosting.Stride3d",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         },
@@ -2178,12 +3030,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A neat fact that strides editor can run only using nuget and no installs.",
+            "homepage": null,
             "id": 628326847,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2023-08-26T15:04:13Z",
+            "open_issues": 0,
             "owner": "Doprez",
             "repo": "stride-gamestudio-nuget",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
         }
@@ -2192,15 +3049,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:41:42.553Z",
+    "last_updated": "2026-08-29T04:51:50.304Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome resources for the fully open source Stride game engine.",
+      "homepage": null,
       "id": 616699778,
       "language": null,
+      "license": "MIT",
       "last_commit": "2024-10-02T21:56:03Z",
+      "open_issues": 0,
       "owner": "Doprez",
       "repo": "Awesome-Stride",
-      "stars": 168
+      "stars": 168,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "dotnet",
+        "game-engine",
+        "stride3d"
+      ]
     },
     "original_repository_sha": "1dd3b765e944868f68a597bc882aac3ab11b5458",
     "enhanced_repository": "enhansome/enhansome-Awesome-Stride",
