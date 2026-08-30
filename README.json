@@ -43,7 +43,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Svelto.ECS and Svelto.Tasks Mini Examples for Unity",
+                "description": "Svelto.ECS and Svelto.Tasks Mini Examples",
                 "homepage": "http://www.sebaslab.com/",
                 "id": 170320609,
                 "language": "C#",
@@ -311,7 +311,7 @@
             "id": 456571273,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-19T07:21:26Z",
+            "last_commit": "2026-08-30T01:35:54Z",
             "open_issues": 58,
             "owner": "stride3d",
             "repo": "stride-community-toolkit",
@@ -1818,11 +1818,11 @@
             "id": 136570231,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-28T12:46:16Z",
-            "open_issues": 684,
+            "last_commit": "2026-08-29T16:46:41Z",
+            "open_issues": 685,
             "owner": "stride3d",
             "repo": "stride",
-            "stars": 7809,
+            "stars": 7810,
             "topics": [
               "csharp",
               "direct3d",
@@ -2498,7 +2498,7 @@
             "id": 66231101,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-29T06:09:55Z",
+            "last_commit": "2026-08-30T00:23:23Z",
             "open_issues": 74,
             "owner": "MyraUI",
             "repo": "Myra",
@@ -2858,7 +2858,7 @@
             "open_issues": 2,
             "owner": "dfkeenan",
             "repo": "StrideToolkit",
-            "stars": 31,
+            "stars": 32,
             "topics": [
               "stride",
               "xenko"
@@ -2878,7 +2878,7 @@
             "id": 695866427,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-28T09:26:09Z",
+            "last_commit": "2026-08-30T02:07:39Z",
             "open_issues": 10,
             "owner": "VaclavElias",
             "repo": "stride-community-toolkit",
@@ -3049,7 +3049,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T11:09:24.243Z",
+    "last_updated": "2026-08-30T09:58:08.045Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources for the fully open source Stride game engine.",
