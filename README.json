@@ -43,7 +43,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Svelto.ECS and Svelto.Tasks Mini Examples",
+                "description": "Svelto.ECS Examples (Unity, .Net, Stride)",
                 "homepage": "http://www.sebaslab.com/",
                 "id": 170320609,
                 "language": "C#",
@@ -1818,11 +1818,11 @@
             "id": 136570231,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-03T07:02:25Z",
+            "last_commit": "2026-09-03T09:16:03Z",
             "open_issues": 674,
             "owner": "stride3d",
             "repo": "stride",
-            "stars": 7811,
+            "stars": 7813,
             "topics": [
               "csharp",
               "direct3d",
@@ -3049,7 +3049,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T08:58:05.655Z",
+    "last_updated": "2026-09-04T08:52:43.393Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources for the fully open source Stride game engine.",
