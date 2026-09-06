@@ -3,13 +3,13 @@
 
 # Awesome Stride with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,109 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,421 | 🐛 106 | 📅 2026-09-02
 
 Stride is a completely open-source, MIT-licensed game engine built from the ground up in C#.
 
 WARNING I made this in a bit of a rush. I have not personally used all of these repos and many are old and may need to be updated to work with the current version of Stride.
 
-[Strides official wiki](https://github.com/stride3d/stride/wiki/Community-Projects) ⭐ 7,813 | 🐛 674 | 🌐 C# | 📅 2026-09-05
+[Strides official wiki](https://github.com/stride3d/stride/wiki/Community-Projects) ⭐ 7,812 | 🐛 674 | 🌐 C# | 📅 2026-09-05
 
 ## ECS Examples
 
@@ -18,7 +18,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
   * [Svelto Doofuses example](https://www.sebaslab.com/svelto-ecs-3-3-and-the-new-filters-api/#:~:text=shiny%20new%20Doofuses%20Stride%20example.)
   * [Svelto Turret example](https://www.sebaslab.com/svelto-miniexample-7-stride-engine-demo/)
 * Repositories
-  * [Fennecs demo](https://github.com/thygrrr/fennecs/tree/main/demos/stride) ⭐ 463 | 🐛 8 | 🌐 C# | 📅 2026-08-06
+  * [Fennecs demo](https://github.com/thygrrr/fennecs/tree/main/demos/stride) ⭐ 464 | 🐛 8 | 🌐 C# | 📅 2026-08-06
   * [Svelto ECS mini examples](https://github.com/sebas77/Svelto.MiniExamples) ⭐ 147 | 🐛 1 | 🌐 C# | 📅 2026-09-02
   * [Arch ECS integrated into Stride](https://github.com/Doprez/stride-arch-ecs#add-arch-components-in-strides-editor) ⭐ 14 | 🐛 0 | 🌐 C# | 📅 2024-10-11
   * [Using Entity Processors for Scene Editor Plugins](https://github.com/Doprez/lod-example) ⭐ 2 | 🐛 0 | 🌐 C# | 📅 2023-10-27
@@ -200,7 +200,7 @@ These are projects that definitely will not work with Stride 4.x without massive
 
 ## Shaders
 
-* [Glass shader](https://github.com/stride3d/stride/discussions/1011) ⭐ 7,813 | 🐛 674 | 🌐 C# | 📅 2026-09-05
+* [Glass shader](https://github.com/stride3d/stride/discussions/1011) ⭐ 7,812 | 🐛 674 | 🌐 C# | 📅 2026-09-05
 * [VVVV core shaders](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Stride.Runtime/src/Effects) ⭐ 63 | 🐛 224 | 🌐 C# | 📅 2026-08-27
 * [Stride.ShaderExplorer: shows the built-in shaders of the Stride](https://github.com/tebjan/Stride.ShaderExplorer) ⭐ 36 | 🐛 2 | 🌐 C# | 📅 2026-03-08
 * [Image processing shaders from VVVV community](https://github.com/bj-rn/VL.Addons/tree/main/vl/shaders) ⭐ 31 | 🐛 12 | 🌐 C# | 📅 2026-08-11
@@ -287,7 +287,7 @@ These are projects that definitely will not work with Stride 4.x without massive
 ## Extension Libraries
 
 * [StrideToolkit: Stride Toolkit is a .NET Standard library for use with the Stride Game Engine.](https://github.com/dfkeenan/StrideToolkit) ⭐ 32 | 🐛 2 | 🌐 C# | 📅 2024-09-28
-* [Stride community toolkit](https://github.com/VaclavElias/stride-community-toolkit) ⭐ 4 | 🐛 10 | 🌐 C# | 📅 2026-09-03
+* [Stride community toolkit](https://github.com/VaclavElias/stride-community-toolkit) ⭐ 4 | 🐛 10 | 🌐 C# | 📅 2026-09-06
 * [Doprez.Stride: A bundle of Stride related libraries and extensions](https://github.com/Doprez/Doprez.Stride) ⭐ 3 | 🐛 0 | 🌐 C# | 📅 2025-02-15 (use Stride community toolkit instead)
 * [Doprez.Stride.Zones: Zone editing in editor](https://github.com/Doprez/Stride.Zones/tree/main) ⭐ 0 | 🐛 2 | 🌐 C# | 📅 2026-02-20
 * [Bepu Physics in Stride](https://www.nuget.org/packages/Stride.BepuPhysics)
@@ -306,4 +306,4 @@ These are projects that definitely will not work with Stride 4.x without massive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
