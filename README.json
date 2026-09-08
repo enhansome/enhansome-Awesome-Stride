@@ -1818,11 +1818,11 @@
             "id": 136570231,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-07T08:20:08Z",
-            "open_issues": 673,
+            "last_commit": "2026-09-08T06:41:02Z",
+            "open_issues": 675,
             "owner": "stride3d",
             "repo": "stride",
-            "stars": 7812,
+            "stars": 7813,
             "topics": [
               "csharp",
               "direct3d",
@@ -2498,7 +2498,7 @@
             "id": 66231101,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-30T00:23:23Z",
+            "last_commit": "2026-09-08T05:59:48Z",
             "open_issues": 74,
             "owner": "MyraUI",
             "repo": "Myra",
@@ -2878,7 +2878,7 @@
             "id": 695866427,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-07T08:46:29Z",
+            "last_commit": "2026-09-08T00:26:10Z",
             "open_issues": 9,
             "owner": "VaclavElias",
             "repo": "stride-community-toolkit",
@@ -3049,7 +3049,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T09:25:00.113Z",
+    "last_updated": "2026-09-08T08:54:12.224Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources for the fully open source Stride game engine.",
