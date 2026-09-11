@@ -3,13 +3,13 @@
 
 # Awesome Stride with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 504,646 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 504,973 | 🐛 106 | 📅 2026-09-02
 
 Stride is a completely open-source, MIT-licensed game engine built from the ground up in C#.
 
 WARNING I made this in a bit of a rush. I have not personally used all of these repos and many are old and may need to be updated to work with the current version of Stride.
 
-[Strides official wiki](https://github.com/stride3d/stride/wiki/Community-Projects) ⭐ 7,814 | 🐛 678 | 🌐 C# | 📅 2026-09-10
+[Strides official wiki](https://github.com/stride3d/stride/wiki/Community-Projects) ⭐ 7,813 | 🐛 678 | 🌐 C# | 📅 2026-09-11
 
 ## ECS Examples
 
@@ -64,11 +64,11 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 * [Stride Instancing Example](https://github.com/tebjan/StrideTransformationInstancing) ⭐ 8 | 🐛 0 | 🌐 C# | 📅 2021-01-13
 * [Load Scenes in parallel](https://github.com/julyfortoday/StrideParallelScenes) ⭐ 7 | 🐛 0 | 🌐 C# | 📅 2021-08-23
 * [StrideVoxelScape](https://github.com/Jarb2104/StrideVoxelScape_v0.1) ⭐ 7 | 🐛 0 | 🌐 C# | 📅 2023-11-16
+* [Workshop creating a game with Stride](https://github.com/manio143/StrideIntroWorkshopNode20/tree/main) ⭐ 7 | 🐛 0 | 🌐 C# | 📅 2020-10-06
 * [Creating a procedural model](https://github.com/tebjan/StrideProceduralModel) ⭐ 6 | 🐛 1 | 🌐 C# | 📅 2021-10-26
 * [Loading a Wavefront OBJ file at runtime](https://github.com/jeske/LoadObjTest) ⭐ 6 | 🐛 0 | 🌐 C# | 📅 2020-05-11
 * [Stride IK implementation](https://github.com/flipdp/Stride.IK/tree/master) ⭐ 6 | 🐛 0 | 🌐 C# | 📅 2021-08-10
 * [Tweening library](https://github.com/JoshFlash/ZenTween) ⭐ 6 | 🐛 0 | 🌐 C# | 📅 2021-06-12
-* [Workshop creating a game with Stride](https://github.com/manio143/StrideIntroWorkshopNode20/tree/main) ⭐ 6 | 🐛 0 | 🌐 C# | 📅 2020-10-06
 * [Demos with a focus on Code-Only approach](https://github.com/najak3d/Stride3D_Demos) ⭐ 5 | 🐛 0 | 🌐 C# | 📅 2022-04-05
 * [Import files into Stride3D](https://github.com/VirtualBrightPlayz/AutoImportStride) ⭐ 5 | 🐛 0 | 🌐 C# | 📅 2020-11-19
 * [Quake 3 movement for Stride3D](https://github.com/Redhacker1/Q3MovementStride) ⭐ 5 | 🐛 0 | 🌐 C# | 📅 2021-06-04
@@ -97,7 +97,7 @@ These are projects that definitely will not work with Stride 4.x without massive
 
 * [Voxel GI example](https://github.com/WhyPenguins/XenkoVoxelGI) ⭐ 30 | 🐛 0 | 🌐 C# | 📅 2019-10-21
 * [Xenko Live Editor](https://github.com/treplogle/XenkoLiveEditor) ⭐ 11 | 🐛 1 | 🌐 C# | 📅 2021-03-14
-  * [New Stride version](https://github.com/tebjan/StrideLiveEditor) ⭐ 31 | 🐛 0 | 🌐 C# | 📅 2024-02-27
+  * [New Stride version](https://github.com/tebjan/StrideLiveEditor) ⭐ 32 | 🐛 0 | 🌐 C# | 📅 2024-02-27
 * [*NEW* Stride Voxel Scape](https://github.com/Jarb2104/StrideVoxelScape_v0.1) ⭐ 7 | 🐛 0 | 🌐 C# | 📅 2023-11-16
   * [Video demo](https://www.youtube.com/watch?v=whJOtux2DrQ)
 * [A Minecraft-style game](https://github.com/NckHmml/ParadoxCraft) ⭐ 4 | 🐛 0 | 🌐 C# | 📅 2015-03-02
@@ -164,7 +164,7 @@ These are projects that definitely will not work with Stride 4.x without massive
 
 ## Engine Documentation
 
-* [Stride docs shader stages](https://github.com/stride3d/stride-docs/blob/master/en/manual/graphics/effects-and-shaders/shading-language/shader-stages.md/) ⭐ 39 | 🐛 67 | 🌐 PowerShell | 📅 2026-08-26
+* [Stride docs shader stages](https://github.com/stride3d/stride-docs/blob/master/en/manual/graphics/effects-and-shaders/shading-language/shader-stages.md/) ⭐ 39 | 🐛 69 | 🌐 PowerShell | 📅 2026-08-26
 * [Custom Root Renderer](https://github.com/tebjan/Stride.CustomRootRenderFeature) ⭐ 16 | 🐛 0 | 🌐 C# | 📅 2020-12-13
 * [Experimental mini Stride.Editor in Avalonia](https://github.com/manio143/StrideComponentsEditorAvalonia) ⭐ 14 | 🐛 8 | 🌐 C# | 📅 2020-11-01
 * [Compiling Stride for Linux](https://www.youtube.com/watch?v=BoHEASoQvu8)
@@ -200,7 +200,7 @@ These are projects that definitely will not work with Stride 4.x without massive
 
 ## Shaders
 
-* [Glass shader](https://github.com/stride3d/stride/discussions/1011) ⭐ 7,814 | 🐛 678 | 🌐 C# | 📅 2026-09-10
+* [Glass shader](https://github.com/stride3d/stride/discussions/1011) ⭐ 7,813 | 🐛 678 | 🌐 C# | 📅 2026-09-11
 * [VVVV core shaders](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Stride.Runtime/src/Effects) ⭐ 63 | 🐛 224 | 🌐 C# | 📅 2026-09-09
 * [Stride.ShaderExplorer: shows the built-in shaders of the Stride](https://github.com/tebjan/Stride.ShaderExplorer) ⭐ 36 | 🐛 2 | 🌐 C# | 📅 2026-03-08
 * [Image processing shaders from VVVV community](https://github.com/bj-rn/VL.Addons/tree/main/vl/shaders) ⭐ 31 | 🐛 12 | 🌐 C# | 📅 2026-08-11
@@ -241,7 +241,7 @@ These are projects that definitely will not work with Stride 4.x without massive
 
 ## Alternative UI Plugins
 
-* [Myra: UI Library for MonoGame, FNA and Stride](https://github.com/rds1983/Myra) ⭐ 875 | 🐛 74 | 🌐 C# | 📅 2026-09-10
+* [Myra: UI Library for MonoGame, FNA and Stride](https://github.com/rds1983/Myra) ⭐ 876 | 🐛 73 | 🌐 C# | 📅 2026-09-11
 * [Empty Keys UI for Xenko](https://github.com/EmptyKeys/UI_Engines) ⭐ 60 | 🐛 4 | 🌐 C# | 📅 2025-05-25
 * [Stridelonia: Stride plugin which allows running Avalonia on Stride](https://github.com/TheKeyblader/Stridelonia) ⭐ 29 | 🐛 7 | 🌐 C# | 📅 2023-07-13
 * [StrideCommunity.ImGuiDebug: Bare-bone implementation of ImGui and a couple of debug tools for Stride](https://github.com/Eideren/StrideCommunity.ImGuiDebug) ⭐ 22 | 🐛 1 | 🌐 C# | 📅 2026-07-06
@@ -294,7 +294,7 @@ These are projects that definitely will not work with Stride 4.x without massive
 
 ## Misc
 
-* [Stride Live Editor for changing entity data at runtime](https://github.com/tebjan/StrideLiveEditor) ⭐ 31 | 🐛 0 | 🌐 C# | 📅 2024-02-27
+* [Stride Live Editor for changing entity data at runtime](https://github.com/tebjan/StrideLiveEditor) ⭐ 32 | 🐛 0 | 🌐 C# | 📅 2024-02-27
 * [Blender plugin to export bulk anims for importing into Stride](https://github.com/JackPilley/BlenderToStrideAnimationSeparator) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2022-11-22
 * [AutoImportStride: A script to import files into Stride3D.](https://github.com/VirtualBrightPlayz/AutoImportStride) ⭐ 5 | 🐛 0 | 🌐 C# | 📅 2020-11-19
 * [Microsoft.Extensions.Hosting.Stride3d: Hosting lifetime for Stride3d](https://github.com/spasarto/Microsoft.Extensions.Hosting.Stride3d) ⭐ 2 | 🐛 0 | 🌐 C# | 📅 2023-10-12
@@ -306,4 +306,4 @@ These are projects that definitely will not work with Stride 4.x without massive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._

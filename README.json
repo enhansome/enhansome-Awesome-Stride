@@ -917,6 +917,27 @@
         },
         {
           "node_type": "item",
+          "title": "Workshop creating a game with Stride",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Materials for the \"Working with the Stride GameStudio\" workshop @ NODE20 Forum for digital arts",
+            "homepage": null,
+            "id": 301160061,
+            "language": "C#",
+            "license": null,
+            "last_commit": "2020-10-06T19:33:33Z",
+            "open_issues": 0,
+            "owner": "manio143",
+            "repo": "StrideIntroWorkshopNode20",
+            "stars": 7,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
+        },
+        {
+          "node_type": "item",
           "title": "Creating a procedural model",
           "description": null,
           "children": [],
@@ -994,27 +1015,6 @@
             "open_issues": 0,
             "owner": "JoshFlash",
             "repo": "ZenTween",
-            "stars": 6,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T16:41:42.553Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Workshop creating a game with Stride",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Materials for the \"Working with the Stride GameStudio\" workshop @ NODE20 Forum for digital arts",
-            "homepage": null,
-            "id": 301160061,
-            "language": "C#",
-            "license": null,
-            "last_commit": "2020-10-06T19:33:33Z",
-            "open_issues": 0,
-            "owner": "manio143",
-            "repo": "StrideIntroWorkshopNode20",
             "stars": 6,
             "topics": []
           },
@@ -1511,7 +1511,7 @@
                     "open_issues": 0,
                     "owner": "tebjan",
                     "repo": "StrideLiveEditor",
-                    "stars": 31,
+                    "stars": 32,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:41:42.553Z"
@@ -1620,7 +1620,7 @@
             "language": "PowerShell",
             "license": "MIT",
             "last_commit": "2026-08-26T16:14:39Z",
-            "open_issues": 67,
+            "open_issues": 69,
             "owner": "stride3d",
             "repo": "stride-docs",
             "stars": 39,
@@ -1818,11 +1818,11 @@
             "id": 136570231,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-10T08:01:28Z",
+            "last_commit": "2026-09-11T03:43:16Z",
             "open_issues": 678,
             "owner": "stride3d",
             "repo": "stride",
-            "stars": 7814,
+            "stars": 7813,
             "topics": [
               "csharp",
               "direct3d",
@@ -2498,11 +2498,11 @@
             "id": 66231101,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-10T05:25:04Z",
-            "open_issues": 74,
+            "last_commit": "2026-09-11T08:21:47Z",
+            "open_issues": 73,
             "owner": "MyraUI",
             "repo": "Myra",
-            "stars": 875,
+            "stars": 876,
             "topics": [
               "csharp",
               "gamedev",
@@ -2953,7 +2953,7 @@
             "open_issues": 0,
             "owner": "tebjan",
             "repo": "StrideLiveEditor",
-            "stars": 31,
+            "stars": 32,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
@@ -3049,7 +3049,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T08:58:46.072Z",
+    "last_updated": "2026-09-11T08:56:49.630Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources for the fully open source Stride game engine.",
