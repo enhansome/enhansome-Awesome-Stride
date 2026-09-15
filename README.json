@@ -24,7 +24,7 @@
                 "open_issues": 8,
                 "owner": "outfox",
                 "repo": "fennecs",
-                "stars": 465,
+                "stars": 466,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -82,7 +82,7 @@
                 "open_issues": 0,
                 "owner": "Doprez",
                 "repo": "stride-arch-ecs",
-                "stars": 14,
+                "stars": 15,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:41:42.553Z"
@@ -315,7 +315,7 @@
             "open_issues": 58,
             "owner": "stride3d",
             "repo": "stride-community-toolkit",
-            "stars": 128,
+            "stars": 129,
             "topics": [
               "csharp",
               "game-developement",
@@ -1818,11 +1818,11 @@
             "id": 136570231,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-14T08:16:25Z",
-            "open_issues": 675,
+            "last_commit": "2026-09-15T08:31:27Z",
+            "open_issues": 678,
             "owner": "stride3d",
             "repo": "stride",
-            "stars": 7817,
+            "stars": 7818,
             "topics": [
               "csharp",
               "direct3d",
@@ -2502,7 +2502,7 @@
             "open_issues": 74,
             "owner": "MyraUI",
             "repo": "Myra",
-            "stars": 876,
+            "stars": 877,
             "topics": [
               "csharp",
               "gamedev",
@@ -2581,7 +2581,7 @@
             "open_issues": 1,
             "owner": "Eideren",
             "repo": "StrideCommunity.ImGuiDebug",
-            "stars": 22,
+            "stars": 23,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
@@ -3049,7 +3049,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T09:55:53.896Z",
+    "last_updated": "2026-09-15T09:27:54.594Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources for the fully open source Stride game engine.",
