@@ -1818,8 +1818,8 @@
             "id": 136570231,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-22T07:28:54Z",
-            "open_issues": 668,
+            "last_commit": "2026-09-23T08:20:24Z",
+            "open_issues": 673,
             "owner": "stride3d",
             "repo": "stride",
             "stars": 7829,
@@ -1849,7 +1849,7 @@
             "id": 598236969,
             "language": "C#",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-22T08:49:54Z",
+            "last_commit": "2026-09-22T12:56:10Z",
             "open_issues": 224,
             "owner": "vvvv",
             "repo": "VL.StandardLibs",
@@ -2502,7 +2502,7 @@
             "open_issues": 72,
             "owner": "MyraUI",
             "repo": "Myra",
-            "stars": 879,
+            "stars": 880,
             "topics": [
               "csharp",
               "gamedev",
@@ -2705,7 +2705,7 @@
                 "id": 598236969,
                 "language": "C#",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-09-22T08:49:54Z",
+                "last_commit": "2026-09-22T12:56:10Z",
                 "open_issues": 224,
                 "owner": "vvvv",
                 "repo": "VL.StandardLibs",
@@ -3049,7 +3049,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T09:20:28.523Z",
+    "last_updated": "2026-09-23T09:20:54.071Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources for the fully open source Stride game engine.",
