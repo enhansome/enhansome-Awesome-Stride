@@ -1108,27 +1108,6 @@
         },
         {
           "node_type": "item",
-          "title": "LOD implementation",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Working on a new LOD system for the Stride 3D game engine. Note, this repo is very volatile.",
-            "homepage": null,
-            "id": 330507623,
-            "language": "C#",
-            "license": null,
-            "last_commit": "2021-01-17T23:51:01Z",
-            "open_issues": 0,
-            "owner": "Xisrith",
-            "repo": "StrideLOD",
-            "stars": 4,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T16:41:42.553Z"
-        },
-        {
-          "node_type": "item",
           "title": "Super Character Controller",
           "description": null,
           "children": [],
@@ -1143,6 +1122,27 @@
             "open_issues": 0,
             "owner": "corthax",
             "repo": "SuperCharacterController",
+            "stars": 5,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T16:41:42.553Z"
+        },
+        {
+          "node_type": "item",
+          "title": "LOD implementation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Working on a new LOD system for the Stride 3D game engine. Note, this repo is very volatile.",
+            "homepage": null,
+            "id": 330507623,
+            "language": "C#",
+            "license": null,
+            "last_commit": "2021-01-17T23:51:01Z",
+            "open_issues": 0,
+            "owner": "Xisrith",
+            "repo": "StrideLOD",
             "stars": 4,
             "topics": []
           },
@@ -1620,7 +1620,7 @@
             "language": "PowerShell",
             "license": "MIT",
             "last_commit": "2026-09-20T18:53:43Z",
-            "open_issues": 67,
+            "open_issues": 68,
             "owner": "stride3d",
             "repo": "stride-docs",
             "stars": 39,
@@ -1818,11 +1818,11 @@
             "id": 136570231,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-24T12:01:31Z",
-            "open_issues": 678,
+            "last_commit": "2026-09-25T20:43:36Z",
+            "open_issues": 679,
             "owner": "stride3d",
             "repo": "stride",
-            "stars": 7827,
+            "stars": 7828,
             "topics": [
               "csharp",
               "direct3d",
@@ -3049,7 +3049,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T09:38:46.152Z",
+    "last_updated": "2026-09-26T09:23:24.971Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources for the fully open source Stride game engine.",

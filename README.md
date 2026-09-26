@@ -3,13 +3,13 @@
 
 # Awesome Stride with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 510,163 | 🐛 107 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 510,651 | 🐛 107 | 📅 2026-09-02
 
 Stride is a completely open-source, MIT-licensed game engine built from the ground up in C#.
 
 WARNING I made this in a bit of a rush. I have not personally used all of these repos and many are old and may need to be updated to work with the current version of Stride.
 
-[Strides official wiki](https://github.com/stride3d/stride/wiki/Community-Projects) ⭐ 7,827 | 🐛 678 | 🌐 C# | 📅 2026-09-24
+[Strides official wiki](https://github.com/stride3d/stride/wiki/Community-Projects) ⭐ 7,828 | 🐛 679 | 🌐 C# | 📅 2026-09-25
 
 ## ECS Examples
 
@@ -73,8 +73,8 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 * [Import files into Stride3D](https://github.com/VirtualBrightPlayz/AutoImportStride) ⭐ 5 | 🐛 0 | 🌐 C# | 📅 2020-11-19
 * [Quake 3 movement for Stride3D](https://github.com/Redhacker1/Q3MovementStride) ⭐ 5 | 🐛 0 | 🌐 C# | 📅 2021-06-04
 * [Running Stride headless client/server](https://github.com/Ethereal77/Stride.ClientServerSample) ⭐ 5 | 🐛 0 | 🌐 C# | 📅 2023-08-14
+* [Super Character Controller](https://github.com/corthax/SuperCharacterController) ⭐ 5 | 🐛 0 | 🌐 C# | 📅 2023-01-04
 * [LOD implementation](https://github.com/Xisrith/StrideLOD) ⭐ 4 | 🐛 0 | 🌐 C# | 📅 2021-01-17
-* [Super Character Controller](https://github.com/corthax/SuperCharacterController) ⭐ 4 | 🐛 0 | 🌐 C# | 📅 2023-01-04
 * [Splitscreen example](https://github.com/spasarto/Stride3dSplitScreen) ⭐ 4 | 🐛 0 | 🌐 C# | 📅 2021-06-30
 * [Tessellation](https://github.com/johang88/Stride-Tessellation) ⭐ 4 | 🐛 0 | 🌐 C# | 📅 2020-10-31
 * [Loading GLTF at runtime](https://github.com/ykafia/StrideGltf/blob/master/GltfImport/LoadGLTF.cs) ⭐ 3 | 🐛 0 | 🌐 C# | 📅 2021-03-01
@@ -164,7 +164,7 @@ These are projects that definitely will not work with Stride 4.x without massive
 
 ## Engine Documentation
 
-* [Stride docs shader stages](https://github.com/stride3d/stride-docs/blob/master/en/manual/graphics/effects-and-shaders/shading-language/shader-stages.md/) ⭐ 39 | 🐛 67 | 🌐 PowerShell | 📅 2026-09-20
+* [Stride docs shader stages](https://github.com/stride3d/stride-docs/blob/master/en/manual/graphics/effects-and-shaders/shading-language/shader-stages.md/) ⭐ 39 | 🐛 68 | 🌐 PowerShell | 📅 2026-09-20
 * [Custom Root Renderer](https://github.com/tebjan/Stride.CustomRootRenderFeature) ⭐ 16 | 🐛 0 | 🌐 C# | 📅 2020-12-13
 * [Experimental mini Stride.Editor in Avalonia](https://github.com/manio143/StrideComponentsEditorAvalonia) ⭐ 14 | 🐛 8 | 🌐 C# | 📅 2020-11-01
 * [Compiling Stride for Linux](https://www.youtube.com/watch?v=BoHEASoQvu8)
@@ -200,7 +200,7 @@ These are projects that definitely will not work with Stride 4.x without massive
 
 ## Shaders
 
-* [Glass shader](https://github.com/stride3d/stride/discussions/1011) ⭐ 7,827 | 🐛 678 | 🌐 C# | 📅 2026-09-24
+* [Glass shader](https://github.com/stride3d/stride/discussions/1011) ⭐ 7,828 | 🐛 679 | 🌐 C# | 📅 2026-09-25
 * [VVVV core shaders](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Stride.Runtime/src/Effects) ⭐ 63 | 🐛 224 | 🌐 C# | 📅 2026-09-24
 * [Stride.ShaderExplorer: shows the built-in shaders of the Stride](https://github.com/tebjan/Stride.ShaderExplorer) ⭐ 36 | 🐛 2 | 🌐 C# | 📅 2026-03-08
 * [Image processing shaders from VVVV community](https://github.com/bj-rn/VL.Addons/tree/main/vl/shaders) ⭐ 31 | 🐛 12 | 🌐 C# | 📅 2026-08-11
@@ -306,4 +306,4 @@ These are projects that definitely will not work with Stride 4.x without massive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
