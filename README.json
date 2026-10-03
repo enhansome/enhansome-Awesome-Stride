@@ -11,7 +11,7 @@
             {
               "node_type": "item",
               "title": "Fennecs demo",
-              "description": null,
+              "description": "outfox/fennecs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -39,7 +39,7 @@
             {
               "node_type": "item",
               "title": "Svelto ECS mini examples",
-              "description": null,
+              "description": "sebas77/Svelto.MiniExamples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -69,7 +69,7 @@
             {
               "node_type": "item",
               "title": "Arch ECS integrated into Stride",
-              "description": null,
+              "description": "Doprez/stride-arch-ecs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -90,7 +90,7 @@
             {
               "node_type": "item",
               "title": "Using Entity Processors for Scene Editor Plugins",
-              "description": null,
+              "description": "Doprez/lod-example",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -111,7 +111,7 @@
             {
               "node_type": "item",
               "title": "Pathfinding With Entity Processors",
-              "description": null,
+              "description": "Doprez/stride-pathfinding-demo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -145,7 +145,7 @@
             {
               "node_type": "item",
               "title": "Xenko TPS example",
-              "description": null,
+              "description": "stride3d/Starbreach",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -166,7 +166,7 @@
             {
               "node_type": "item",
               "title": "Rise of the Undeaf",
-              "description": null,
+              "description": "manio143/RiseOfTheUndeaf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -187,7 +187,7 @@
             {
               "node_type": "item",
               "title": "Astroids",
-              "description": null,
+              "description": "LanceJZ/Stride-Asteroids",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -208,7 +208,7 @@
             {
               "node_type": "item",
               "title": "Basic Platformer WIP",
-              "description": null,
+              "description": "Doprez/stride-platformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -231,7 +231,7 @@
             {
               "node_type": "item",
               "title": "Zerobot",
-              "description": null,
+              "description": "joaovsq/Zerobot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -252,7 +252,7 @@
             {
               "node_type": "item",
               "title": "Terracota",
-              "description": null,
+              "description": "YerkoAndrei/Terracota",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -273,7 +273,7 @@
             {
               "node_type": "item",
               "title": "Roller Ghoster",
-              "description": null,
+              "description": "Aggror/RollerGhosterOpen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -302,7 +302,7 @@
         {
           "node_type": "item",
           "title": "Stride Game Engine Extension for code only approach",
-          "description": null,
+          "description": "stride3d/stride-community-toolkit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -311,7 +311,7 @@
             "id": 456571273,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-02T10:03:33Z",
+            "last_commit": "2026-10-02T23:20:36Z",
             "open_issues": 57,
             "owner": "stride3d",
             "repo": "stride-community-toolkit",
@@ -329,7 +329,7 @@
         {
           "node_type": "item",
           "title": "Bepu physics integration",
-          "description": null,
+          "description": "Nicogo1705/Stride.BepuPhysics",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -356,12 +356,12 @@
         {
           "node_type": "item",
           "title": "Proof of Concepts",
-          "description": null,
+          "description": "Basewq/XenkoProofOfConcepts",
           "children": [
             {
               "node_type": "item",
               "title": "Cutscene Timeline",
-              "description": null,
+              "description": "Basewq/XenkoProofOfConcepts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -382,7 +382,7 @@
             {
               "node_type": "item",
               "title": "Text Control",
-              "description": null,
+              "description": "Basewq/XenkoProofOfConcepts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -403,7 +403,7 @@
             {
               "node_type": "item",
               "title": "Entity Processor",
-              "description": null,
+              "description": "Basewq/XenkoProofOfConcepts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -424,7 +424,7 @@
             {
               "node_type": "item",
               "title": "Game Screen Manager",
-              "description": null,
+              "description": "Basewq/XenkoProofOfConcepts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -445,7 +445,7 @@
             {
               "node_type": "item",
               "title": "Level Editor Extensions",
-              "description": null,
+              "description": "Basewq/XenkoProofOfConcepts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -466,7 +466,7 @@
             {
               "node_type": "item",
               "title": "Multiplayer",
-              "description": null,
+              "description": "Basewq/XenkoProofOfConcepts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -487,7 +487,7 @@
             {
               "node_type": "item",
               "title": "Object Info Renderer",
-              "description": null,
+              "description": "Basewq/XenkoProofOfConcepts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -508,7 +508,7 @@
             {
               "node_type": "item",
               "title": "Screen Space Decals",
-              "description": null,
+              "description": "Basewq/XenkoProofOfConcepts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -529,7 +529,7 @@
             {
               "node_type": "item",
               "title": "Screen Space Decals With Root Renderer",
-              "description": null,
+              "description": "Basewq/XenkoProofOfConcepts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -550,7 +550,7 @@
             {
               "node_type": "item",
               "title": "UI Navigation",
-              "description": null,
+              "description": "Basewq/XenkoProofOfConcepts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -588,12 +588,12 @@
         {
           "node_type": "item",
           "title": "Xenko/Stride byte-sized project examples",
-          "description": null,
+          "description": "profan/XenkoByteSized",
           "children": [
             {
               "node_type": "item",
               "title": "Prodedural Meshes",
-              "description": null,
+              "description": "profan/XenkoByteSized",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -618,7 +618,7 @@
             {
               "node_type": "item",
               "title": "SplitScreen",
-              "description": null,
+              "description": "profan/XenkoByteSized",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -643,7 +643,7 @@
             {
               "node_type": "item",
               "title": "Trigger Example",
-              "description": null,
+              "description": "profan/XenkoByteSized",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -668,7 +668,7 @@
             {
               "node_type": "item",
               "title": "Vehicle Script",
-              "description": null,
+              "description": "profan/XenkoByteSized",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -693,7 +693,7 @@
             {
               "node_type": "item",
               "title": "Multi-Mesh Shader",
-              "description": null,
+              "description": "profan/XenkoByteSized",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -739,7 +739,7 @@
         {
           "node_type": "item",
           "title": "Create a custom data asset",
-          "description": null,
+          "description": "manio143/StrideCustomAsset",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -760,7 +760,7 @@
         {
           "node_type": "item",
           "title": "Stride3D examples in .NET 5 using C# 9.0 or .NET 6 using C# 10",
-          "description": null,
+          "description": "VaclavElias/Stride3DTutorials",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -786,7 +786,7 @@
         {
           "node_type": "item",
           "title": "Simple water",
-          "description": null,
+          "description": "TomGroner/XenkoFlowingWater",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -813,7 +813,7 @@
         {
           "node_type": "item",
           "title": "Simple water 2",
-          "description": null,
+          "description": "johang88/StrideSimpleWater",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -834,7 +834,7 @@
         {
           "node_type": "item",
           "title": "Fog Of War",
-          "description": null,
+          "description": "herocrab/StrideFogOfWarPlus",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -855,7 +855,7 @@
         {
           "node_type": "item",
           "title": "Stride Instancing Example",
-          "description": null,
+          "description": "tebjan/StrideTransformationInstancing",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -876,7 +876,7 @@
         {
           "node_type": "item",
           "title": "Load Scenes in parallel",
-          "description": null,
+          "description": "julyfortoday/StrideParallelScenes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -897,7 +897,7 @@
         {
           "node_type": "item",
           "title": "Stride IK implementation",
-          "description": null,
+          "description": "flipdp/Stride.IK",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -918,7 +918,7 @@
         {
           "node_type": "item",
           "title": "StrideVoxelScape",
-          "description": null,
+          "description": "Jarb2104/Stride-VoxelScape",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -939,7 +939,7 @@
         {
           "node_type": "item",
           "title": "Workshop creating a game with Stride",
-          "description": null,
+          "description": "manio143/StrideIntroWorkshopNode20",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -960,7 +960,7 @@
         {
           "node_type": "item",
           "title": "Creating a procedural model",
-          "description": null,
+          "description": "tebjan/StrideProceduralModel",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -981,7 +981,7 @@
         {
           "node_type": "item",
           "title": "Loading a Wavefront OBJ file at runtime",
-          "description": null,
+          "description": "jeske/LoadObjTest",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1002,7 +1002,7 @@
         {
           "node_type": "item",
           "title": "Tweening library",
-          "description": null,
+          "description": "JoshFlash/ZenTween",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1023,7 +1023,7 @@
         {
           "node_type": "item",
           "title": "Demos with a focus on Code-Only approach",
-          "description": null,
+          "description": "najak3d/Stride3D_Demos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1044,7 +1044,7 @@
         {
           "node_type": "item",
           "title": "Import files into Stride3D",
-          "description": null,
+          "description": "VirtualBrightPlayz/AutoImportStride",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1067,7 +1067,7 @@
         {
           "node_type": "item",
           "title": "Quake 3 movement for Stride3D",
-          "description": null,
+          "description": "Redhacker1/Q3MovementStride",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1088,7 +1088,7 @@
         {
           "node_type": "item",
           "title": "Running Stride headless client/server",
-          "description": null,
+          "description": "Ethereal77/Stride.ClientServerSample",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1109,7 +1109,7 @@
         {
           "node_type": "item",
           "title": "Super Character Controller",
-          "description": null,
+          "description": "corthax/SuperCharacterController",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1130,7 +1130,7 @@
         {
           "node_type": "item",
           "title": "LOD implementation",
-          "description": null,
+          "description": "Xisrith/StrideLOD",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1151,7 +1151,7 @@
         {
           "node_type": "item",
           "title": "Splitscreen example",
-          "description": null,
+          "description": "spasarto/Stride3dSplitScreen",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1172,7 +1172,7 @@
         {
           "node_type": "item",
           "title": "Tessellation",
-          "description": null,
+          "description": "johang88/Stride-Tessellation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1193,7 +1193,7 @@
         {
           "node_type": "item",
           "title": "Loading GLTF at runtime",
-          "description": null,
+          "description": "ykafia/StrideGltf",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1214,7 +1214,7 @@
         {
           "node_type": "item",
           "title": "Physics constraints demo",
-          "description": null,
+          "description": "manio143/StrideConstraintsDemo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1235,7 +1235,7 @@
         {
           "node_type": "item",
           "title": "Sound detection in Stride",
-          "description": null,
+          "description": "manio143/BeatDetection",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1256,7 +1256,7 @@
         {
           "node_type": "item",
           "title": "Easier input binding configuration",
-          "description": null,
+          "description": "lparkermg/LPSoft.Stride.InputExtensions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1277,7 +1277,7 @@
         {
           "node_type": "item",
           "title": "Source generation",
-          "description": null,
+          "description": "johang88/StrideSourceGeneratorTest",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1298,7 +1298,7 @@
         {
           "node_type": "item",
           "title": "Camera controller",
-          "description": null,
+          "description": "herocrab/StrideCameraController",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1319,7 +1319,7 @@
         {
           "node_type": "item",
           "title": "Control - Input Manager",
-          "description": null,
+          "description": "nanotimb/Ctrl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1343,7 +1343,7 @@
         {
           "node_type": "item",
           "title": "Custom UI example using MyraUI",
-          "description": null,
+          "description": "Doprez/stride-ui-alternate-example",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1364,7 +1364,7 @@
         {
           "node_type": "item",
           "title": "Custom Editor Gizmos",
-          "description": null,
+          "description": "gearsin/Stride.Demo.Gizmo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1385,12 +1385,12 @@
         {
           "node_type": "item",
           "title": "Debug shape render",
-          "description": null,
+          "description": "profan/XenkoDebugRendering",
           "children": [
             {
               "node_type": "item",
               "title": "Updated Stride version",
-              "description": null,
+              "description": "Doprez/Stride.DebugShapes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1428,7 +1428,7 @@
         {
           "node_type": "item",
           "title": "Stride config example",
-          "description": null,
+          "description": "johang88/StrideConfigurationReference",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1449,7 +1449,7 @@
         {
           "node_type": "item",
           "title": "Stride Outline Renderer",
-          "description": null,
+          "description": "SoulRider/StrideOutlineRenderer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1472,7 +1472,7 @@
             {
               "node_type": "item",
               "title": "Voxel GI example",
-              "description": null,
+              "description": "WhyPenguins/XenkoVoxelGI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1493,12 +1493,12 @@
             {
               "node_type": "item",
               "title": "Xenko Live Editor",
-              "description": null,
+              "description": "treplogle/XenkoLiveEditor",
               "children": [
                 {
                   "node_type": "item",
                   "title": "New Stride version",
-                  "description": null,
+                  "description": "tebjan/StrideLiveEditor",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1536,7 +1536,7 @@
             {
               "node_type": "item",
               "title": "NEW Stride Voxel Scape",
-              "description": null,
+              "description": "Jarb2104/Stride-VoxelScape",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1557,7 +1557,7 @@
             {
               "node_type": "item",
               "title": "A Minecraft-style game",
-              "description": null,
+              "description": "NckHmml/ParadoxCraft",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1610,7 +1610,7 @@
         {
           "node_type": "item",
           "title": "Stride docs shader stages",
-          "description": null,
+          "description": "stride3d/stride-docs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1631,7 +1631,7 @@
         {
           "node_type": "item",
           "title": "Custom Root Renderer",
-          "description": null,
+          "description": "tebjan/Stride.CustomRootRenderFeature",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1665,7 +1665,7 @@
         {
           "node_type": "item",
           "title": "Experimental mini Stride.Editor in Avalonia",
-          "description": null,
+          "description": "manio143/StrideComponentsEditorAvalonia",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1727,7 +1727,7 @@
             {
               "node_type": "item",
               "title": "Doprez.Stride.AI: FSM and GOAP library for Stride",
-              "description": null,
+              "description": "Doprez/Doprez.Stride.AI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1757,7 +1757,7 @@
             {
               "node_type": "item",
               "title": "Stride-npc: A basic example of a Finite State Machine",
-              "description": null,
+              "description": "Doprez/stride-npc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1780,7 +1780,7 @@
             {
               "node_type": "item",
               "title": "Stride-goap: a very simple implementation of GOAP using MountainGoap",
-              "description": null,
+              "description": "Doprez/stride-goap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1809,7 +1809,7 @@
         {
           "node_type": "item",
           "title": "Glass shader",
-          "description": null,
+          "description": "stride3d/stride",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1819,7 +1819,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-10-01T06:04:11Z",
-            "open_issues": 683,
+            "open_issues": 682,
             "owner": "stride3d",
             "repo": "stride",
             "stars": 7841,
@@ -1840,7 +1840,7 @@
         {
           "node_type": "item",
           "title": "VVVV core shaders",
-          "description": null,
+          "description": "vvvv/VL.StandardLibs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1870,7 +1870,7 @@
         {
           "node_type": "item",
           "title": "Stride.ShaderExplorer: shows the built-in shaders of the Stride",
-          "description": null,
+          "description": "tebjan/Stride.ShaderExplorer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1891,7 +1891,7 @@
         {
           "node_type": "item",
           "title": "Image processing shaders from VVVV community",
-          "description": null,
+          "description": "bj-rn/VL.Addons",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1915,7 +1915,7 @@
         {
           "node_type": "item",
           "title": "Generate simple mesh and marching cube from computeShader",
-          "description": null,
+          "description": "Nicogo1705/StrideMarchingCubeSystem",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1936,7 +1936,7 @@
         {
           "node_type": "item",
           "title": "Marching Cubes ComputeShader",
-          "description": null,
+          "description": "Nicogo1705/StrideMarchingCubeSystem",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1957,7 +1957,7 @@
         {
           "node_type": "item",
           "title": "StrideMeshOutlineRenderFeature: Stride Mesh Outline Render Feature",
-          "description": null,
+          "description": "herocrab/StrideMeshOutlineRenderFeature",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1978,7 +1978,7 @@
         {
           "node_type": "item",
           "title": "Stride-Awesome-Shaders: Just a repository for cool shaders usable in stride",
-          "description": null,
+          "description": "ykafia/Stride-Awesome-Shaders",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1999,7 +1999,7 @@
         {
           "node_type": "item",
           "title": "UnrealMotion: Motion blur for stride",
-          "description": null,
+          "description": "ykafia/UnrealMotion",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2029,7 +2029,7 @@
         {
           "node_type": "item",
           "title": "StrideWireframeShader: single pass wireframe shader for stride",
-          "description": null,
+          "description": "jeske/StrideWireframeShader",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2050,7 +2050,7 @@
         {
           "node_type": "item",
           "title": "Triplanar shader",
-          "description": null,
+          "description": "herocrab/StrideTriplanarShader",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2077,7 +2077,7 @@
         {
           "node_type": "item",
           "title": "Render objects with invisible background window",
-          "description": null,
+          "description": "torinos-yt/VL.GlassWindow",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2101,7 +2101,7 @@
         {
           "node_type": "item",
           "title": "Boids algorithm rendered in Stride",
-          "description": null,
+          "description": "torinos-yt/VL.Boids-GPU",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2122,7 +2122,7 @@
         {
           "node_type": "item",
           "title": "3D UI using Stride and VVVV",
-          "description": null,
+          "description": "tebjan/StrideUIPageDemo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2149,7 +2149,7 @@
         {
           "node_type": "item",
           "title": "TR.Stride: Various stride environment utilities",
-          "description": null,
+          "description": "johang88/TR.Stride",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2170,7 +2170,7 @@
         {
           "node_type": "item",
           "title": "Another Terrain from Johang",
-          "description": null,
+          "description": "johang88/StrideTerrain",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2191,7 +2191,7 @@
         {
           "node_type": "item",
           "title": "Xenko/Stride heightmap terrain",
-          "description": null,
+          "description": "TomGroner/XenkoTerrain",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2218,7 +2218,7 @@
         {
           "node_type": "item",
           "title": "Xenko/Stride marching cubes terrain",
-          "description": null,
+          "description": "SilentCLD/XenkoMCTerrain",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2246,7 +2246,7 @@
         {
           "node_type": "item",
           "title": "Xenko/Stride heightmap terrain #2",
-          "description": null,
+          "description": "SilentCLD/XenkoHMTerrain",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2273,7 +2273,7 @@
         {
           "node_type": "item",
           "title": "Stride Voxel Scape",
-          "description": null,
+          "description": "Jarb2104/Stride-VoxelScape",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2300,7 +2300,7 @@
         {
           "node_type": "item",
           "title": "Lite Entity System",
-          "description": null,
+          "description": "RevenantX/LiteEntitySystem",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2331,7 +2331,7 @@
         {
           "node_type": "item",
           "title": "Backdash: Rollback network SDK",
-          "description": null,
+          "description": "Delta3-Studio/Backdash",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2363,7 +2363,7 @@
         {
           "node_type": "item",
           "title": "GalaxyCore: Network Solution for Unity, Stride, Xenko, Unigine",
-          "description": null,
+          "description": "defraswiew/GalaxyCore",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2384,7 +2384,7 @@
         {
           "node_type": "item",
           "title": "Regulus.Remote: A simple C# network library.",
-          "description": null,
+          "description": "jiowchern/Regulus.Remote",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2420,7 +2420,7 @@
         {
           "node_type": "item",
           "title": "ET-Stride: A networking framework based on Stride and ET",
-          "description": null,
+          "description": "ly3027929699/ET-Stride",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2441,7 +2441,7 @@
         {
           "node_type": "item",
           "title": "Stride.Networking.Simple: A simple async event based lib for Stride",
-          "description": null,
+          "description": "manio143/Stride.Networking.Simple",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2462,7 +2462,7 @@
         {
           "node_type": "item",
           "title": "MUD framework for Stride",
-          "description": null,
+          "description": "JoseJohnen/MUD_SKELETON",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2489,7 +2489,7 @@
         {
           "node_type": "item",
           "title": "Myra: UI Library for MonoGame, FNA and Stride",
-          "description": null,
+          "description": "MyraUI/Myra",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2520,7 +2520,7 @@
         {
           "node_type": "item",
           "title": "Empty Keys UI for Xenko",
-          "description": null,
+          "description": "EmptyKeys/UI_Engines",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2547,7 +2547,7 @@
         {
           "node_type": "item",
           "title": "Stridelonia: Stride plugin which allows running Avalonia on Stride",
-          "description": null,
+          "description": "TheKeyblader/Stridelonia",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2568,7 +2568,7 @@
         {
           "node_type": "item",
           "title": "StrideCommunity.ImGuiDebug: Bare-bone implementation of ImGui and a couple of debug tools for Stride",
-          "description": null,
+          "description": "Eideren/StrideCommunity.ImGuiDebug",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2589,7 +2589,7 @@
         {
           "node_type": "item",
           "title": "AvaStride: Avalonia 11 in Stride",
-          "description": null,
+          "description": "jhimes144/AvaStride",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2621,7 +2621,7 @@
             {
               "node_type": "item",
               "title": "Stride in Ultralight Blazor",
-              "description": null,
+              "description": "lionfire/LionFire.Stride.Ultralight",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2642,7 +2642,7 @@
             {
               "node_type": "item",
               "title": "Stride in Winforms",
-              "description": null,
+              "description": "windperson/-StrideGameNet5WinFormsDemo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2668,7 +2668,7 @@
             {
               "node_type": "item",
               "title": "Stride using SDL to embed into Avalonia",
-              "description": null,
+              "description": "Doprez/avalonia-hosted-stride",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2696,7 +2696,7 @@
             {
               "node_type": "item",
               "title": "Stride integration source code on GitHub",
-              "description": null,
+              "description": "vvvv/VL.StandardLibs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2760,7 +2760,7 @@
             {
               "node_type": "item",
               "title": "VVVVarkle with vvvv rendered using Stride",
-              "description": null,
+              "description": "BenTec3d/VVVVarkle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2816,7 +2816,7 @@
             {
               "node_type": "item",
               "title": "Astroids",
-              "description": null,
+              "description": "mmujic2/StrideAsteroids",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2845,7 +2845,7 @@
         {
           "node_type": "item",
           "title": "StrideToolkit: Stride Toolkit is a .NET Standard library for use with the Stride Game Engine.",
-          "description": null,
+          "description": "dfkeenan/StrideToolkit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2869,7 +2869,7 @@
         {
           "node_type": "item",
           "title": "Stride community toolkit",
-          "description": null,
+          "description": "VaclavElias/stride-community-toolkit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2878,7 +2878,7 @@
             "id": 695866427,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-02T10:03:49Z",
+            "last_commit": "2026-10-02T23:21:02Z",
             "open_issues": 9,
             "owner": "VaclavElias",
             "repo": "stride-community-toolkit",
@@ -2913,7 +2913,7 @@
         {
           "node_type": "item",
           "title": "Doprez.Stride.Zones: Zone editing in editor",
-          "description": null,
+          "description": "Doprez/Stride.Zones",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2940,7 +2940,7 @@
         {
           "node_type": "item",
           "title": "Stride Live Editor for changing entity data at runtime",
-          "description": null,
+          "description": "tebjan/StrideLiveEditor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2961,7 +2961,7 @@
         {
           "node_type": "item",
           "title": "Blender plugin to export bulk anims for importing into Stride",
-          "description": null,
+          "description": "JackPilley/BlenderToStrideAnimationSeparator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2982,7 +2982,7 @@
         {
           "node_type": "item",
           "title": "AutoImportStride: A script to import files into Stride3D.",
-          "description": null,
+          "description": "VirtualBrightPlayz/AutoImportStride",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3005,7 +3005,7 @@
         {
           "node_type": "item",
           "title": "Microsoft.Extensions.Hosting.Stride3d: Hosting lifetime for Stride3d",
-          "description": null,
+          "description": "spasarto/Microsoft.Extensions.Hosting.Stride3d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3026,7 +3026,7 @@
         {
           "node_type": "item",
           "title": "Run Stride Gamestudio with only Nuget!",
-          "description": null,
+          "description": "Doprez/stride-gamestudio-nuget",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3049,7 +3049,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:32:54.105Z",
+    "last_updated": "2026-10-03T04:29:46.050Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources for the fully open source Stride game engine.",
