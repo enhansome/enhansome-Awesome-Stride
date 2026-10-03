@@ -3,7 +3,7 @@
 
 # Awesome Stride with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,795 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,874 | 🐛 106 | 📅 2026-09-02
 
 Stride is a completely open-source, MIT-licensed game engine built from the ground up in C#.
 
@@ -164,7 +164,7 @@ These are projects that definitely will not work with Stride 4.x without massive
 
 ## Engine Documentation
 
-* [Stride docs shader stages](https://github.com/stride3d/stride-docs/blob/master/en/manual/graphics/effects-and-shaders/shading-language/shader-stages.md/) ⭐ 39 | 🐛 68 | 🌐 PowerShell | 📅 2026-09-29
+* [Stride docs shader stages](https://github.com/stride3d/stride-docs/blob/master/en/manual/graphics/effects-and-shaders/shading-language/shader-stages.md/) ⭐ 39 | 🐛 68 | 🌐 PowerShell | 📅 2026-10-03
 * [Custom Root Renderer](https://github.com/tebjan/Stride.CustomRootRenderFeature) ⭐ 16 | 🐛 0 | 🌐 C# | 📅 2020-12-13
 * [Experimental mini Stride.Editor in Avalonia](https://github.com/manio143/StrideComponentsEditorAvalonia) ⭐ 14 | 🐛 8 | 🌐 C# | 📅 2020-11-01
 * [Compiling Stride for Linux](https://www.youtube.com/watch?v=BoHEASoQvu8)
@@ -192,7 +192,7 @@ These are projects that definitely will not work with Stride 4.x without massive
 ## AI
 
 * Libraries
-  * [Bepu Navigation](https://github.com/Nicogo1705/Stride.BepuPhysics/tree/master/Stride.BepuPhysics.Navigation) ⭐ 55 | 🐛 8 | 🌐 C# | 📅 2024-10-12 using [DotRecast](https://github.com/ikpil/DotRecast) ⭐ 946 | 🐛 18 | 🌐 C# | 📅 2026-10-02
+  * [Bepu Navigation](https://github.com/Nicogo1705/Stride.BepuPhysics/tree/master/Stride.BepuPhysics.Navigation) ⭐ 55 | 🐛 8 | 🌐 C# | 📅 2024-10-12 using [DotRecast](https://github.com/ikpil/DotRecast) ⭐ 946 | 🐛 18 | 🌐 C# | 📅 2026-10-03
   * [Doprez.Stride.AI: FSM and GOAP library for Stride](https://github.com/Doprez/Doprez.Stride.AI) ⭐ 3 | 🐛 0 | 🌐 C# | 📅 2024-10-28
 * Examples
   * [Stride-npc: A basic example of a Finite State Machine](https://github.com/Doprez/stride-npc) ⭐ 7 | 🐛 0 | 🌐 C# | 📅 2023-07-04

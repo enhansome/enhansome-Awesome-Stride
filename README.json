@@ -1619,7 +1619,7 @@
             "id": 136592204,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-09-29T11:02:21Z",
+            "last_commit": "2026-10-03T09:27:47Z",
             "open_issues": 68,
             "owner": "stride3d",
             "repo": "stride-docs",
@@ -3049,7 +3049,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:29:46.050Z",
+    "last_updated": "2026-10-03T09:54:36.648Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources for the fully open source Stride game engine.",
