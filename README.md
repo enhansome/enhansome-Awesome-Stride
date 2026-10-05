@@ -3,7 +3,7 @@
 
 # Awesome Stride with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 514,400 | 🐛 107 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 514,905 | 🐛 107 | 📅 2026-09-02
 
 Stride is a completely open-source, MIT-licensed game engine built from the ground up in C#.
 
@@ -18,7 +18,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
   * [Svelto Doofuses example](https://www.sebaslab.com/svelto-ecs-3-3-and-the-new-filters-api/#:~:text=shiny%20new%20Doofuses%20Stride%20example.)
   * [Svelto Turret example](https://www.sebaslab.com/svelto-miniexample-7-stride-engine-demo/)
 * Repositories
-  * [Fennecs demo](https://github.com/thygrrr/fennecs/tree/main/demos/stride) ⭐ 468 | 🐛 8 | 🌐 C# | 📅 2026-09-17
+  * [Fennecs demo](https://github.com/thygrrr/fennecs/tree/main/demos/stride) ⭐ 468 | 🐛 8 | 🌐 C# | 📅 2026-10-04
   * [Svelto ECS mini examples](https://github.com/sebas77/Svelto.MiniExamples) ⭐ 147 | 🐛 1 | 🌐 C# | 📅 2026-09-02
   * [Arch ECS integrated into Stride](https://github.com/Doprez/stride-arch-ecs#add-arch-components-in-strides-editor) ⭐ 15 | 🐛 0 | 🌐 C# | 📅 2024-10-11
   * [Using Entity Processors for Scene Editor Plugins](https://github.com/Doprez/lod-example) ⭐ 2 | 🐛 0 | 🌐 C# | 📅 2023-10-27
@@ -192,7 +192,7 @@ These are projects that definitely will not work with Stride 4.x without massive
 ## AI
 
 * Libraries
-  * [Bepu Navigation](https://github.com/Nicogo1705/Stride.BepuPhysics/tree/master/Stride.BepuPhysics.Navigation) ⭐ 55 | 🐛 8 | 🌐 C# | 📅 2024-10-12 using [DotRecast](https://github.com/ikpil/DotRecast) ⭐ 947 | 🐛 18 | 🌐 C# | 📅 2026-10-03
+  * [Bepu Navigation](https://github.com/Nicogo1705/Stride.BepuPhysics/tree/master/Stride.BepuPhysics.Navigation) ⭐ 55 | 🐛 8 | 🌐 C# | 📅 2024-10-12 using [DotRecast](https://github.com/ikpil/DotRecast) ⭐ 948 | 🐛 18 | 🌐 C# | 📅 2026-10-03
   * [Doprez.Stride.AI: FSM and GOAP library for Stride](https://github.com/Doprez/Doprez.Stride.AI) ⭐ 3 | 🐛 0 | 🌐 C# | 📅 2024-10-28
 * Examples
   * [Stride-npc: A basic example of a Finite State Machine](https://github.com/Doprez/stride-npc) ⭐ 7 | 🐛 0 | 🌐 C# | 📅 2023-07-04
@@ -287,7 +287,7 @@ These are projects that definitely will not work with Stride 4.x without massive
 ## Extension Libraries
 
 * [StrideToolkit: Stride Toolkit is a .NET Standard library for use with the Stride Game Engine.](https://github.com/dfkeenan/StrideToolkit) ⭐ 32 | 🐛 2 | 🌐 C# | 📅 2024-09-28
-* [Stride community toolkit](https://github.com/VaclavElias/stride-community-toolkit) ⭐ 4 | 🐛 9 | 🌐 C# | 📅 2026-10-04
+* [Stride community toolkit](https://github.com/VaclavElias/stride-community-toolkit) ⭐ 4 | 🐛 9 | 🌐 C# | 📅 2026-10-05
 * [Doprez.Stride: A bundle of Stride related libraries and extensions](https://github.com/Doprez/Doprez.Stride) ⭐ 3 | 🐛 0 | 🌐 C# | 📅 2025-02-15 (use Stride community toolkit instead)
 * [Doprez.Stride.Zones: Zone editing in editor](https://github.com/Doprez/Stride.Zones/tree/main) ⭐ 0 | 🐛 2 | 🌐 C# | 📅 2026-02-20
 * [Bepu Physics in Stride](https://www.nuget.org/packages/Stride.BepuPhysics)
@@ -306,4 +306,4 @@ These are projects that definitely will not work with Stride 4.x without massive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
