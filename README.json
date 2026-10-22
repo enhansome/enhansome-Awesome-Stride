@@ -24,7 +24,7 @@
                 "open_issues": 10,
                 "owner": "outfox",
                 "repo": "fennecs",
-                "stars": 473,
+                "stars": 475,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -315,7 +315,7 @@
             "open_issues": 58,
             "owner": "stride3d",
             "repo": "stride-community-toolkit",
-            "stars": 129,
+            "stars": 130,
             "topics": [
               "csharp",
               "game-developement",
@@ -1818,11 +1818,11 @@
             "id": 136570231,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-21T05:33:51Z",
-            "open_issues": 702,
+            "last_commit": "2026-10-22T05:54:26Z",
+            "open_issues": 703,
             "owner": "stride3d",
             "repo": "stride",
-            "stars": 7898,
+            "stars": 7902,
             "topics": [
               "csharp",
               "direct3d",
@@ -1849,7 +1849,7 @@
             "id": 598236969,
             "language": "C#",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-20T13:01:11Z",
+            "last_commit": "2026-10-21T17:47:34Z",
             "open_issues": 225,
             "owner": "vvvv",
             "repo": "VL.StandardLibs",
@@ -2183,7 +2183,7 @@
             "open_issues": 1,
             "owner": "johang88",
             "repo": "StrideTerrain",
-            "stars": 24,
+            "stars": 25,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
@@ -2372,7 +2372,7 @@
             "id": 223229683,
             "language": "C#",
             "license": null,
-            "last_commit": "2023-05-07T08:54:59Z",
+            "last_commit": "2026-10-21T20:41:48Z",
             "open_issues": 0,
             "owner": "defraswiew",
             "repo": "GalaxyCore",
@@ -2502,7 +2502,7 @@
             "open_issues": 71,
             "owner": "MyraUI",
             "repo": "Myra",
-            "stars": 885,
+            "stars": 886,
             "topics": [
               "csharp",
               "gamedev",
@@ -2705,7 +2705,7 @@
                 "id": 598236969,
                 "language": "C#",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-20T13:01:11Z",
+                "last_commit": "2026-10-21T17:47:34Z",
                 "open_issues": 225,
                 "owner": "vvvv",
                 "repo": "VL.StandardLibs",
@@ -3049,7 +3049,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T09:24:11.111Z",
+    "last_updated": "2026-10-22T09:27:11.813Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources for the fully open source Stride game engine.",
