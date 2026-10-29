@@ -1620,7 +1620,7 @@
             "language": "PowerShell",
             "license": "MIT",
             "last_commit": "2026-10-26T18:52:32Z",
-            "open_issues": 69,
+            "open_issues": 70,
             "owner": "stride3d",
             "repo": "stride-docs",
             "stars": 39,
@@ -1818,11 +1818,11 @@
             "id": 136570231,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-26T22:30:55Z",
-            "open_issues": 697,
+            "last_commit": "2026-10-29T00:03:21Z",
+            "open_issues": 721,
             "owner": "stride3d",
             "repo": "stride",
-            "stars": 7927,
+            "stars": 7930,
             "topics": [
               "csharp",
               "direct3d",
@@ -1849,7 +1849,7 @@
             "id": 598236969,
             "language": "C#",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-27T22:53:09Z",
+            "last_commit": "2026-10-28T22:41:47Z",
             "open_issues": 225,
             "owner": "vvvv",
             "repo": "VL.StandardLibs",
@@ -2502,7 +2502,7 @@
             "open_issues": 71,
             "owner": "MyraUI",
             "repo": "Myra",
-            "stars": 888,
+            "stars": 887,
             "topics": [
               "csharp",
               "gamedev",
@@ -2560,7 +2560,7 @@
             "open_issues": 7,
             "owner": "TheKeyblader",
             "repo": "Stridelonia",
-            "stars": 29,
+            "stars": 28,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:42.553Z"
@@ -2705,7 +2705,7 @@
                 "id": 598236969,
                 "language": "C#",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-27T22:53:09Z",
+                "last_commit": "2026-10-28T22:41:47Z",
                 "open_issues": 225,
                 "owner": "vvvv",
                 "repo": "VL.StandardLibs",
@@ -2878,7 +2878,7 @@
             "id": 695866427,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-28T10:11:53Z",
+            "last_commit": "2026-10-29T10:52:55Z",
             "open_issues": 9,
             "owner": "VaclavElias",
             "repo": "stride-community-toolkit",
@@ -3049,7 +3049,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T10:37:53.478Z",
+    "last_updated": "2026-10-29T10:56:10.211Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources for the fully open source Stride game engine.",
