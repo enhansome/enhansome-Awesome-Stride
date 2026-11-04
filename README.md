@@ -3,13 +3,13 @@
 
 # Awesome Stride with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 529,987 | 🐛 104 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 530,641 | 🐛 103 | 📅 2026-09-02
 
 Stride is a completely open-source, MIT-licensed game engine built from the ground up in C#.
 
 WARNING I made this in a bit of a rush. I have not personally used all of these repos and many are old and may need to be updated to work with the current version of Stride.
 
-[Strides official wiki](https://github.com/stride3d/stride/wiki/Community-Projects) ⭐ 7,939 | 🐛 756 | 🌐 C# | 📅 2026-11-03
+[Strides official wiki](https://github.com/stride3d/stride/wiki/Community-Projects) ⭐ 7,940 | 🐛 752 | 🌐 C# | 📅 2026-11-04
 
 ## ECS Examples
 
@@ -37,19 +37,19 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 
 ## Example Projects
 
-* [Stride Game Engine Extension for code only approach](https://github.com/VaclavElias/stride-code-only) ⭐ 131 | 🐛 56 | 🌐 C# | 📅 2026-10-30
+* [Stride Game Engine Extension for code only approach](https://github.com/VaclavElias/stride-code-only) ⭐ 131 | 🐛 56 | 🌐 C# | 📅 2026-11-04
 * [Bepu physics integration](https://github.com/Nicogo1705/BepuPhysicIntegrationTest/tree/master) ⭐ 54 | 🐛 8 | 🌐 C# | 📅 2024-10-12
-* [Proof of Concepts](https://github.com/Basewq/XenkoProofOfConcepts) ⭐ 29 | 🐛 1 | 🌐 C# | 📅 2026-06-20
-  * [Cutscene Timeline](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/CutsceneTimelineExample) ⭐ 29 | 🐛 1 | 🌐 C# | 📅 2026-06-20
-  * [Text Control](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/DialogueTextControlExample) ⭐ 29 | 🐛 1 | 🌐 C# | 📅 2026-06-20
-  * [Entity Processor](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/EntityProcessorExample) ⭐ 29 | 🐛 1 | 🌐 C# | 📅 2026-06-20
-  * [Game Screen Manager](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/GameScreenManagerExample) ⭐ 29 | 🐛 1 | 🌐 C# | 📅 2026-06-20
-  * [Level Editor Extensions](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/LevelEditorExtensionExample) ⭐ 29 | 🐛 1 | 🌐 C# | 📅 2026-06-20
-  * [Multiplayer](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/MultiplayerExample) ⭐ 29 | 🐛 1 | 🌐 C# | 📅 2026-06-20
-  * [Object Info Renderer](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/ObjectInfoRenderTargetExample) ⭐ 29 | 🐛 1 | 🌐 C# | 📅 2026-06-20
-  * [Screen Space Decals](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/ScreenSpaceDecalExample) ⭐ 29 | 🐛 1 | 🌐 C# | 📅 2026-06-20
-  * [Screen Space Decals With Root Renderer](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/ScreenSpaceDecalRootRendererExample) ⭐ 29 | 🐛 1 | 🌐 C# | 📅 2026-06-20
-  * [UI Navigation](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/UINavigationExample) ⭐ 29 | 🐛 1 | 🌐 C# | 📅 2026-06-20
+* [Proof of Concepts](https://github.com/Basewq/XenkoProofOfConcepts) ⭐ 29 | 🐛 1 | 🌐 C# | 📅 2026-11-04
+  * [Cutscene Timeline](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/CutsceneTimelineExample) ⭐ 29 | 🐛 1 | 🌐 C# | 📅 2026-11-04
+  * [Text Control](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/DialogueTextControlExample) ⭐ 29 | 🐛 1 | 🌐 C# | 📅 2026-11-04
+  * [Entity Processor](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/EntityProcessorExample) ⭐ 29 | 🐛 1 | 🌐 C# | 📅 2026-11-04
+  * [Game Screen Manager](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/GameScreenManagerExample) ⭐ 29 | 🐛 1 | 🌐 C# | 📅 2026-11-04
+  * [Level Editor Extensions](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/LevelEditorExtensionExample) ⭐ 29 | 🐛 1 | 🌐 C# | 📅 2026-11-04
+  * [Multiplayer](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/MultiplayerExample) ⭐ 29 | 🐛 1 | 🌐 C# | 📅 2026-11-04
+  * [Object Info Renderer](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/ObjectInfoRenderTargetExample) ⭐ 29 | 🐛 1 | 🌐 C# | 📅 2026-11-04
+  * [Screen Space Decals](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/ScreenSpaceDecalExample) ⭐ 29 | 🐛 1 | 🌐 C# | 📅 2026-11-04
+  * [Screen Space Decals With Root Renderer](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/ScreenSpaceDecalRootRendererExample) ⭐ 29 | 🐛 1 | 🌐 C# | 📅 2026-11-04
+  * [UI Navigation](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/UINavigationExample) ⭐ 29 | 🐛 1 | 🌐 C# | 📅 2026-11-04
 * [Xenko/Stride byte-sized project examples](https://github.com/profan/XenkoByteSized) ⭐ 29 | 🐛 5 | 🌐 C# | 📅 2019-11-08
   * [Prodedural Meshes](https://github.com/profan/XenkoByteSized/blob/master/XenkoByteSized/ProceduralMesh/TetrahedronMesh.cs) ⭐ 29 | 🐛 5 | 🌐 C# | 📅 2019-11-08
   * [SplitScreen](https://github.com/profan/XenkoByteSized#xenkobytesizedsplitscreen) ⭐ 29 | 🐛 5 | 🌐 C# | 📅 2019-11-08
@@ -164,7 +164,7 @@ These are projects that definitely will not work with Stride 4.x without massive
 
 ## Engine Documentation
 
-* [Stride docs shader stages](https://github.com/stride3d/stride-docs/blob/master/en/manual/graphics/effects-and-shaders/shading-language/shader-stages.md/) ⭐ 39 | 🐛 73 | 🌐 PowerShell | 📅 2026-11-02
+* [Stride docs shader stages](https://github.com/stride3d/stride-docs/blob/master/en/manual/graphics/effects-and-shaders/shading-language/shader-stages.md/) ⭐ 39 | 🐛 75 | 🌐 PowerShell | 📅 2026-11-02
 * [Custom Root Renderer](https://github.com/tebjan/Stride.CustomRootRenderFeature) ⭐ 16 | 🐛 0 | 🌐 C# | 📅 2020-12-13
 * [Experimental mini Stride.Editor in Avalonia](https://github.com/manio143/StrideComponentsEditorAvalonia) ⭐ 13 | 🐛 8 | 🌐 C# | 📅 2020-11-01
 * [Compiling Stride for Linux](https://www.youtube.com/watch?v=BoHEASoQvu8)
@@ -200,8 +200,8 @@ These are projects that definitely will not work with Stride 4.x without massive
 
 ## Shaders
 
-* [Glass shader](https://github.com/stride3d/stride/discussions/1011) ⭐ 7,939 | 🐛 756 | 🌐 C# | 📅 2026-11-03
-* [VVVV core shaders](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Stride.Runtime/src/Effects) ⭐ 63 | 🐛 225 | 🌐 C# | 📅 2026-10-30
+* [Glass shader](https://github.com/stride3d/stride/discussions/1011) ⭐ 7,940 | 🐛 752 | 🌐 C# | 📅 2026-11-04
+* [VVVV core shaders](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Stride.Runtime/src/Effects) ⭐ 63 | 🐛 225 | 🌐 C# | 📅 2026-11-03
 * [Stride.ShaderExplorer: shows the built-in shaders of the Stride](https://github.com/tebjan/Stride.ShaderExplorer) ⭐ 36 | 🐛 2 | 🌐 C# | 📅 2026-03-08
 * [Image processing shaders from VVVV community](https://github.com/bj-rn/VL.Addons/tree/main/vl/shaders) ⭐ 31 | 🐛 12 | 🌐 C# | 📅 2026-08-11
 * [Generate simple mesh and marching cube from computeShader](https://github.com/Nicogo1705/Stride-Generate-Mesh-from-ComputeShader) ⭐ 14 | 🐛 0 | 🌐 C# | 📅 2026-08-26
@@ -232,7 +232,7 @@ These are projects that definitely will not work with Stride 4.x without massive
 ## Networking
 
 * [Lite Entity System](https://github.com/RevenantX/LiteEntitySystem) ⭐ 330 | 🐛 8 | 🌐 C# | 📅 2026-10-23
-* [Backdash: Rollback network SDK](https://github.com/lucasteles/Backdash) ⭐ 177 | 🐛 18 | 🌐 C# | 📅 2026-10-26
+* [Backdash: Rollback network SDK](https://github.com/lucasteles/Backdash) ⭐ 177 | 🐛 16 | 🌐 C# | 📅 2026-11-03
 * [GalaxyCore: Network Solution for Unity, Stride, Xenko, Unigine](https://github.com/defraswiew/GalaxyCore) ⭐ 40 | 🐛 0 | 🌐 C# | 📅 2026-10-21
 * [Regulus.Remote: A simple C# network library.](https://github.com/jiowchern/Regulus.Remote) ⭐ 30 | 🐛 0 | 🌐 C# | 📅 2025-01-06
 * [ET-Stride: A networking framework based on Stride and ET](https://github.com/ly3027929699/ET-Stride) ⭐ 23 | 🐛 0 | 🌐 C# | 📅 2023-09-25
@@ -257,7 +257,7 @@ These are projects that definitely will not work with Stride 4.x without massive
   * [Stride in WPF Control](https://gist.github.com/EricEzaM/5797be1f4b28f15e9be53287a02d3d67)
   * [Stride in avalonia Control](https://gist.github.com/westonsoftware/a3fa982397fe1817ece4a27d3cbc5a89)
 * VVVV integration
-  * [Stride integration source code on GitHub](https://github.com/vvvv/VL.StandardLibs) ⭐ 63 | 🐛 225 | 🌐 C# | 📅 2026-10-30
+  * [Stride integration source code on GitHub](https://github.com/vvvv/VL.StandardLibs) ⭐ 63 | 🐛 225 | 🌐 C# | 📅 2026-11-03
   * [3D rendering documentation](https://thegraybook.vvvv.org/reference/libraries/graphics-3d.html)
 
 ## Made with Stride
@@ -287,7 +287,7 @@ These are projects that definitely will not work with Stride 4.x without massive
 ## Extension Libraries
 
 * [StrideToolkit: Stride Toolkit is a .NET Standard library for use with the Stride Game Engine.](https://github.com/dfkeenan/StrideToolkit) ⭐ 32 | 🐛 2 | 🌐 C# | 📅 2024-09-28
-* [Stride community toolkit](https://github.com/VaclavElias/stride-community-toolkit) ⭐ 4 | 🐛 9 | 🌐 C# | 📅 2026-11-02
+* [Stride community toolkit](https://github.com/VaclavElias/stride-community-toolkit) ⭐ 4 | 🐛 9 | 🌐 C# | 📅 2026-11-04
 * [Doprez.Stride: A bundle of Stride related libraries and extensions](https://github.com/Doprez/Doprez.Stride) ⭐ 3 | 🐛 0 | 🌐 C# | 📅 2025-02-15 (use Stride community toolkit instead)
 * [Doprez.Stride.Zones: Zone editing in editor](https://github.com/Doprez/Stride.Zones/tree/main) ⭐ 0 | 🐛 2 | 🌐 C# | 📅 2026-02-20
 * [Bepu Physics in Stride](https://www.nuget.org/packages/Stride.BepuPhysics)
@@ -306,4 +306,4 @@ These are projects that definitely will not work with Stride 4.x without massive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
