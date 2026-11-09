@@ -24,7 +24,7 @@
                 "open_issues": 10,
                 "owner": "outfox",
                 "repo": "fennecs",
-                "stars": 481,
+                "stars": 482,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -1818,11 +1818,11 @@
             "id": 136570231,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-08T10:27:28Z",
-            "open_issues": 715,
+            "last_commit": "2026-11-09T12:14:08Z",
+            "open_issues": 725,
             "owner": "stride3d",
             "repo": "stride",
-            "stars": 7944,
+            "stars": 7946,
             "topics": [
               "csharp",
               "direct3d",
@@ -2313,7 +2313,7 @@
             "open_issues": 8,
             "owner": "RevenantX",
             "repo": "LiteEntitySystem",
-            "stars": 330,
+            "stars": 331,
             "topics": [
               "csharp",
               "dotnet",
@@ -2340,8 +2340,8 @@
             "id": 690212135,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-05T13:46:54Z",
-            "open_issues": 16,
+            "last_commit": "2026-11-09T01:15:56Z",
+            "open_issues": 17,
             "owner": "Delta3-Studio",
             "repo": "Backdash",
             "stars": 178,
@@ -2878,7 +2878,7 @@
             "id": 695866427,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-08T11:07:10Z",
+            "last_commit": "2026-11-08T22:11:09Z",
             "open_issues": 9,
             "owner": "VaclavElias",
             "repo": "stride-community-toolkit",
@@ -3049,7 +3049,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T11:20:24.314Z",
+    "last_updated": "2026-11-09T12:57:32.612Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources for the fully open source Stride game engine.",
@@ -3061,7 +3061,7 @@
       "open_issues": 0,
       "owner": "Doprez",
       "repo": "Awesome-Stride",
-      "stars": 168,
+      "stars": 169,
       "topics": [
         "awesome",
         "awesome-list",
