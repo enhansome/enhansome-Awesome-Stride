@@ -3,13 +3,13 @@
 
 # Awesome Stride with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 534,586 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 535,140 | 🐛 103 | 📅 2026-09-02
 
 Stride is a completely open-source, MIT-licensed game engine built from the ground up in C#.
 
 WARNING I made this in a bit of a rush. I have not personally used all of these repos and many are old and may need to be updated to work with the current version of Stride.
 
-[Strides official wiki](https://github.com/stride3d/stride/wiki/Community-Projects) ⭐ 7,945 | 🐛 720 | 🌐 C# | 📅 2026-11-10
+[Strides official wiki](https://github.com/stride3d/stride/wiki/Community-Projects) ⭐ 7,949 | 🐛 718 | 🌐 C# | 📅 2026-11-11
 
 ## ECS Examples
 
@@ -200,8 +200,8 @@ These are projects that definitely will not work with Stride 4.x without massive
 
 ## Shaders
 
-* [Glass shader](https://github.com/stride3d/stride/discussions/1011) ⭐ 7,945 | 🐛 720 | 🌐 C# | 📅 2026-11-10
-* [VVVV core shaders](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Stride.Runtime/src/Effects) ⭐ 63 | 🐛 225 | 🌐 C# | 📅 2026-11-05
+* [Glass shader](https://github.com/stride3d/stride/discussions/1011) ⭐ 7,949 | 🐛 718 | 🌐 C# | 📅 2026-11-11
+* [VVVV core shaders](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Stride.Runtime/src/Effects) ⭐ 63 | 🐛 225 | 🌐 C# | 📅 2026-11-10
 * [Stride.ShaderExplorer: shows the built-in shaders of the Stride](https://github.com/tebjan/Stride.ShaderExplorer) ⭐ 36 | 🐛 2 | 🌐 C# | 📅 2026-11-05
 * [Image processing shaders from VVVV community](https://github.com/bj-rn/VL.Addons/tree/main/vl/shaders) ⭐ 31 | 🐛 12 | 🌐 C# | 📅 2026-08-11
 * [Generate simple mesh and marching cube from computeShader](https://github.com/Nicogo1705/Stride-Generate-Mesh-from-ComputeShader) ⭐ 14 | 🐛 0 | 🌐 C# | 📅 2026-08-26
@@ -232,7 +232,7 @@ These are projects that definitely will not work with Stride 4.x without massive
 ## Networking
 
 * [Lite Entity System](https://github.com/RevenantX/LiteEntitySystem) ⭐ 333 | 🐛 8 | 🌐 C# | 📅 2026-10-23
-* [Backdash: Rollback network SDK](https://github.com/lucasteles/Backdash) ⭐ 178 | 🐛 17 | 🌐 C# | 📅 2026-11-09
+* [Backdash: Rollback network SDK](https://github.com/lucasteles/Backdash) ⭐ 178 | 🐛 17 | 🌐 C# | 📅 2026-11-10
 * [GalaxyCore: Network Solution for Unity, Stride, Xenko, Unigine](https://github.com/defraswiew/GalaxyCore) ⭐ 40 | 🐛 0 | 🌐 C# | 📅 2026-10-21
 * [Regulus.Remote: A simple C# network library.](https://github.com/jiowchern/Regulus.Remote) ⭐ 30 | 🐛 0 | 🌐 C# | 📅 2025-01-06
 * [ET-Stride: A networking framework based on Stride and ET](https://github.com/ly3027929699/ET-Stride) ⭐ 23 | 🐛 0 | 🌐 C# | 📅 2023-09-25
@@ -257,7 +257,7 @@ These are projects that definitely will not work with Stride 4.x without massive
   * [Stride in WPF Control](https://gist.github.com/EricEzaM/5797be1f4b28f15e9be53287a02d3d67)
   * [Stride in avalonia Control](https://gist.github.com/westonsoftware/a3fa982397fe1817ece4a27d3cbc5a89)
 * VVVV integration
-  * [Stride integration source code on GitHub](https://github.com/vvvv/VL.StandardLibs) ⭐ 63 | 🐛 225 | 🌐 C# | 📅 2026-11-05
+  * [Stride integration source code on GitHub](https://github.com/vvvv/VL.StandardLibs) ⭐ 63 | 🐛 225 | 🌐 C# | 📅 2026-11-10
   * [3D rendering documentation](https://thegraybook.vvvv.org/reference/libraries/graphics-3d.html)
 
 ## Made with Stride
@@ -306,4 +306,4 @@ These are projects that definitely will not work with Stride 4.x without massive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
