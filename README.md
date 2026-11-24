@@ -3,13 +3,13 @@
 
 # Awesome Stride with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 541,447 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 542,090 | 🐛 103 | 📅 2026-09-02
 
 Stride is a completely open-source, MIT-licensed game engine built from the ground up in C#.
 
 WARNING I made this in a bit of a rush. I have not personally used all of these repos and many are old and may need to be updated to work with the current version of Stride.
 
-[Strides official wiki](https://github.com/stride3d/stride/wiki/Community-Projects) ⭐ 7,966 | 🐛 702 | 🌐 C# | 📅 2026-11-23
+[Strides official wiki](https://github.com/stride3d/stride/wiki/Community-Projects) ⭐ 7,968 | 🐛 708 | 🌐 C# | 📅 2026-11-24
 
 ## ECS Examples
 
@@ -200,9 +200,9 @@ These are projects that definitely will not work with Stride 4.x without massive
 
 ## Shaders
 
-* [Glass shader](https://github.com/stride3d/stride/discussions/1011) ⭐ 7,966 | 🐛 702 | 🌐 C# | 📅 2026-11-23
-* [VVVV core shaders](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Stride.Runtime/src/Effects) ⭐ 63 | 🐛 227 | 🌐 C# | 📅 2026-11-22
-* [Stride.ShaderExplorer: shows the built-in shaders of the Stride](https://github.com/tebjan/Stride.ShaderExplorer) ⭐ 36 | 🐛 2 | 🌐 C# | 📅 2026-11-05
+* [Glass shader](https://github.com/stride3d/stride/discussions/1011) ⭐ 7,968 | 🐛 708 | 🌐 C# | 📅 2026-11-24
+* [VVVV core shaders](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Stride.Runtime/src/Effects) ⭐ 63 | 🐛 227 | 🌐 C# | 📅 2026-11-24
+* [Stride.ShaderExplorer: shows the built-in shaders of the Stride](https://github.com/tebjan/Stride.ShaderExplorer) ⭐ 37 | 🐛 2 | 🌐 C# | 📅 2026-11-05
 * [Image processing shaders from VVVV community](https://github.com/bj-rn/VL.Addons/tree/main/vl/shaders) ⭐ 31 | 🐛 12 | 🌐 C# | 📅 2026-08-11
 * [Generate simple mesh and marching cube from computeShader](https://github.com/Nicogo1705/Stride-Generate-Mesh-from-ComputeShader) ⭐ 14 | 🐛 0 | 🌐 C# | 📅 2026-08-26
 * [Marching Cubes ComputeShader](https://github.com/Nicogo1705/Stride-Generate-Simple-Mesh-And-Marching-Cube-From-ComputeShader) ⭐ 14 | 🐛 0 | 🌐 C# | 📅 2026-08-26
@@ -231,7 +231,7 @@ These are projects that definitely will not work with Stride 4.x without massive
 
 ## Networking
 
-* [Lite Entity System](https://github.com/RevenantX/LiteEntitySystem) ⭐ 332 | 🐛 8 | 🌐 C# | 📅 2026-10-23
+* [Lite Entity System](https://github.com/RevenantX/LiteEntitySystem) ⭐ 332 | 🐛 8 | 🌐 C# | 📅 2026-11-23
 * [Backdash: Rollback network SDK](https://github.com/lucasteles/Backdash) ⭐ 180 | 🐛 18 | 🌐 C# | 📅 2026-11-23
 * [GalaxyCore: Network Solution for Unity, Stride, Xenko, Unigine](https://github.com/defraswiew/GalaxyCore) ⭐ 40 | 🐛 0 | 🌐 C# | 📅 2026-10-21
 * [Regulus.Remote: A simple C# network library.](https://github.com/jiowchern/Regulus.Remote) ⭐ 30 | 🐛 0 | 🌐 C# | 📅 2025-01-06
@@ -241,7 +241,7 @@ These are projects that definitely will not work with Stride 4.x without massive
 
 ## Alternative UI Plugins
 
-* [Myra: UI Library for MonoGame, FNA and Stride](https://github.com/rds1983/Myra) ⭐ 890 | 🐛 71 | 🌐 C# | 📅 2026-11-01
+* [Myra: UI Library for MonoGame, FNA and Stride](https://github.com/rds1983/Myra) ⭐ 891 | 🐛 71 | 🌐 C# | 📅 2026-11-01
 * [Empty Keys UI for Xenko](https://github.com/EmptyKeys/UI_Engines) ⭐ 60 | 🐛 4 | 🌐 C# | 📅 2025-05-25
 * [Stridelonia: Stride plugin which allows running Avalonia on Stride](https://github.com/TheKeyblader/Stridelonia) ⭐ 28 | 🐛 7 | 🌐 C# | 📅 2023-07-13
 * [StrideCommunity.ImGuiDebug: Bare-bone implementation of ImGui and a couple of debug tools for Stride](https://github.com/Eideren/StrideCommunity.ImGuiDebug) ⭐ 23 | 🐛 1 | 🌐 C# | 📅 2026-07-06
@@ -257,13 +257,13 @@ These are projects that definitely will not work with Stride 4.x without massive
   * [Stride in WPF Control](https://gist.github.com/EricEzaM/5797be1f4b28f15e9be53287a02d3d67)
   * [Stride in avalonia Control](https://gist.github.com/westonsoftware/a3fa982397fe1817ece4a27d3cbc5a89)
 * VVVV integration
-  * [Stride integration source code on GitHub](https://github.com/vvvv/VL.StandardLibs) ⭐ 63 | 🐛 227 | 🌐 C# | 📅 2026-11-22
+  * [Stride integration source code on GitHub](https://github.com/vvvv/VL.StandardLibs) ⭐ 63 | 🐛 227 | 🌐 C# | 📅 2026-11-24
   * [3D rendering documentation](https://thegraybook.vvvv.org/reference/libraries/graphics-3d.html)
 
 ## Made with Stride
 
 * Releases
-  * [Rider4Ever](https://phr00t.itch.io/ride4evr) - made with [Focus by Phr00t](https://github.com/phr00t/FocusEngine) ⭐ 105 | 🐛 7 | 🌐 C# | 📅 2026-05-28
+  * [Rider4Ever](https://phr00t.itch.io/ride4evr) - made with [Focus by Phr00t](https://github.com/phr00t/FocusEngine) ⭐ 104 | 🐛 7 | 🌐 C# | 📅 2026-05-28
   * [VVVVarkle with vvvv rendered using Stride](https://github.com/BenTec3d/VVVVarkle/releases/tag/v1.0) ⭐ 3 | 🐛 1 | 🌐 C# | 📅 2022-03-22
   * [Children of the galaxy](https://www.emptykeys.com/games/children-of-the-galaxy/)
   * [Distant Worlds 2](https://store.steampowered.com/app/1531540/Distant_Worlds_2/)
@@ -287,7 +287,7 @@ These are projects that definitely will not work with Stride 4.x without massive
 ## Extension Libraries
 
 * [StrideToolkit: Stride Toolkit is a .NET Standard library for use with the Stride Game Engine.](https://github.com/dfkeenan/StrideToolkit) ⭐ 32 | 🐛 2 | 🌐 C# | 📅 2024-09-28
-* [Stride community toolkit](https://github.com/VaclavElias/stride-community-toolkit) ⭐ 4 | 🐛 9 | 🌐 C# | 📅 2026-11-22
+* [Stride community toolkit](https://github.com/VaclavElias/stride-community-toolkit) ⭐ 4 | 🐛 9 | 🌐 C# | 📅 2026-11-23
 * [Doprez.Stride: A bundle of Stride related libraries and extensions](https://github.com/Doprez/Doprez.Stride) ⭐ 3 | 🐛 0 | 🌐 C# | 📅 2025-02-15 (use Stride community toolkit instead)
 * [Doprez.Stride.Zones: Zone editing in editor](https://github.com/Doprez/Stride.Zones/tree/main) ⭐ 0 | 🐛 2 | 🌐 C# | 📅 2026-02-20
 * [Bepu Physics in Stride](https://www.nuget.org/packages/Stride.BepuPhysics)
@@ -306,4 +306,4 @@ These are projects that definitely will not work with Stride 4.x without massive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
